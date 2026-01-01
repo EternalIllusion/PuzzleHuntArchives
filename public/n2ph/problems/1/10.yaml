@@ -1,0 +1,78 @@
+additional-answers:
+- answer: YOU ARE LOST
+  extra: ''
+  message: 哦不！你迷路了……
+- answer: 叽里咕噜说啥呢，我看是琵琶拨尽四弦悲
+  extra: ''
+  message: 请您不要对前端进行逆向，这会破坏您的做题体验，感谢配合！
+answer: 叽里咕噜说啥呢，我看是琵琶拨尽四弦悲
+content:
+- "\r\n<!-- n2ph-1 Puzzle -->\r\n<template>\r\n\r\n    <div class=\"vue-pz-content\"\
+  >\r\n        <p>注：本题需要队伍内至少一人到达校园内跑图。若队内所有人皆无法进校园，请查看提示列表。</p>\r\n        <p>\r\n\
+  \            跑图规则之参与方式：<br>\r\n            每个队伍仅派出<strong>一名</strong>成员进行跑图。<br>\r\
+  \n            队伍其余成员将获得第11题的题卡前往<strong>C楼阶梯教室</strong>，先对题卡进行研究。<br>\r\n      \
+  \      注意，第11题在没有本题的卡片的前提下无法做出最终答案。<br>\r\n            如果你是单人队，你将同时获得第10题和第11题题卡。<br>\r\
+  \n            但你的当务之急仍然是跑完第10题的图。<br>\r\n            跑图成员记得回到<strong>C楼阶梯教室</strong>接走你的队友。<br><br>\r\
+  \n\r\n            跑图规则之地面标识：<br>\r\n            <strong>箭头</strong>：请沿着箭头指示方向走。<br>\r\
+  \n            <strong>分叉箭头</strong>：这是一条岔路！请选择一个方向。<br>\r\n            <strong>红线</strong>：这里被拦起来了，请不要跨过红线。<br>\r\
+  \n            <strong>红叉</strong>：哦不！你走到了一条死路的尽头！请立刻回到上一个岔路口，走向另一条路吧。<br><br>\r\n\
+  \            \r\n            跑图规则之楼梯与楼层：<br>\r\n            所有形式的上下楼仅限于楼梯。<strong>请勿使用电梯等方式上下楼！</strong><br>\r\
+  \n            楼梯采用<strong>白名单制</strong>，即只有被标记可以从某层上或下到某层的楼梯才可以被使用<br>\r\n     \
+  \       本路线仅使用了<strong>负一层、一层、二层</strong>作为跑图路线，请勿上至三楼及以上的楼层！<br><br>\r\n\r\n  \
+  \          跑图规则之采集点：<br>\r\n            你将会在路途中看到多个采集点。<br>\r\n            在每个采集点，你都会收到两张印有字母和数字的彩色卡片。<br>\r\
+  \n            请收集所有<strong>正确道路</strong>上的卡片。岔路上的卡片将不会对得到正确答案有任何帮助。<br>\r\n    \
+  \        注意卡片右上角的序号，你应当能够收集到共<strong>10</strong>张卡片，右上角的序号按照收集顺序从1到10。<br><br>\r\
+  \n\r\n            跑图规则之温馨提示：<br>\r\n            注意安全！不要跑！<br>\r\n            不要走到地面标识等不希望你走到的地方。<br>\r\
+  \n            不要在跑图的时候和其他队伍的成员或无关人士交流！<br><br>\r\n        </p>\r\n        <!--img\
+  \ class=\"img-main-single\" :src=\"imgSource\" :alt=\"imgAlt\" /-->\r\n        <p>Ans:{{'\
+  \ _'.repeat(ansLength)}}</p>\r\n    </div>\r\n    \r\n\r\n</template>\r\n\r\n<style>\r\
+  \n\r\n    .img-main-single {\r\n        width: 100%;\r\n        max-width: 100%;\r\
+  \n        height: auto;\r\n        border: #fff 3px solid;\r\n        border-radius:\
+  \ .5rem;\r\n    }\r\n\r\n    .vue-pz-content {\r\n        border: #bbb 3px solid;\r\
+  \n        background-color: #fff;\r\n        border-radius: 1rem;\r\n        margin:\
+  \ 1rem;\r\n        padding: 1.2rem;\r\n    }\r\n\r\n</style>"
+content-type: 2
+desc: "<div class=\"tip-block custom-block\">\n  <span class=\"custom-block-title\"\
+  >?</span>\n  <span>本题含有线下元素</span>\n</div>\n\n迷宫的尽头将会揭秘这片遗产的故事……"
+extend-data: ''
+links:
+- path: n2ph/index
+  title: 索引页
+  type: index
+- path: n2ph/pages/a
+  title: 预热赛+正赛
+  type: page
+tips:
+- content: 将得到的字母按照其背后的数字排序（如A的背面写着2，则A是答案的第2个字母）
+  title: 该如何排序 (500提示点)
+- content: 请你们以【敢问路在何方】开头向站内信索要题目线下步骤得到的卡片。请务必表达清楚你们**需要什么**，你们可以索要**任何线下能获取的有关的资料**。
+  title: 【南外通票】我们没有成员能够线下怎么办 (1000提示点)
+title: 迷途未竟
+type: problem
+vue_script: "var __vue_puzzle_component__=function(e){\"use strict\";return{setup:()=>({imgSource:e.ref(\"\
+  /n2ph/static/c52db058949349a881075ff72a794dc4.webp\"),imgAlt:e.ref(\"古道密语\"),ansLength:e.ref(10)})}}(Vue);\r\
+  \n\r\n\r\n// 确保导出名称正确\r\nexport default __vue_puzzle_component__;"
+vue_template: "\r\n<!-- n2ph-1 Puzzle -->\r\n<template>\r\n\r\n    <div class=\"vue-pz-content\"\
+  >\r\n        <p>注：本题需要队伍内至少一人到达校园内跑图。若队内所有人皆无法进校园，请查看提示列表。</p>\r\n        <p>\r\n\
+  \            跑图规则之参与方式：<br>\r\n            每个队伍仅派出<strong>一名</strong>成员进行跑图。<br>\r\
+  \n            队伍其余成员将获得第11题的题卡前往<strong>C楼阶梯教室</strong>，先对题卡进行研究。<br>\r\n      \
+  \      注意，第11题在没有本题的卡片的前提下无法做出最终答案。<br>\r\n            如果你是单人队，你将同时获得第10题和第11题题卡。<br>\r\
+  \n            但你的当务之急仍然是跑完第10题的图。<br>\r\n            跑图成员记得回到<strong>C楼阶梯教室</strong>接走你的队友。<br><br>\r\
+  \n\r\n            跑图规则之地面标识：<br>\r\n            <strong>箭头</strong>：请沿着箭头指示方向走。<br>\r\
+  \n            <strong>分叉箭头</strong>：这是一条岔路！请选择一个方向。<br>\r\n            <strong>红线</strong>：这里被拦起来了，请不要跨过红线。<br>\r\
+  \n            <strong>红叉</strong>：哦不！你走到了一条死路的尽头！请立刻回到上一个岔路口，走向另一条路吧。<br><br>\r\n\
+  \            \r\n            跑图规则之楼梯与楼层：<br>\r\n            所有形式的上下楼仅限于楼梯。<strong>请勿使用电梯等方式上下楼！</strong><br>\r\
+  \n            楼梯采用<strong>白名单制</strong>，即只有被标记可以从某层上或下到某层的楼梯才可以被使用<br>\r\n     \
+  \       本路线仅使用了<strong>负一层、一层、二层</strong>作为跑图路线，请勿上至三楼及以上的楼层！<br><br>\r\n\r\n  \
+  \          跑图规则之采集点：<br>\r\n            你将会在路途中看到多个采集点。<br>\r\n            在每个采集点，你都会收到两张印有字母和数字的彩色卡片。<br>\r\
+  \n            请收集所有<strong>正确道路</strong>上的卡片。岔路上的卡片将不会对得到正确答案有任何帮助。<br>\r\n    \
+  \        注意卡片右上角的序号，你应当能够收集到共<strong>10</strong>张卡片，右上角的序号按照收集顺序从1到10。<br><br>\r\
+  \n\r\n            跑图规则之温馨提示：<br>\r\n            注意安全！不要跑！<br>\r\n            不要走到地面标识等不希望你走到的地方。<br>\r\
+  \n            不要在跑图的时候和其他队伍的成员或无关人士交流！<br><br>\r\n        </p>\r\n        <!--img\
+  \ class=\"img-main-single\" :src=\"imgSource\" :alt=\"imgAlt\" /-->\r\n        <p>Ans:{{'\
+  \ _'.repeat(ansLength)}}</p>\r\n    </div>\r\n    \r\n\r\n</template>\r\n\r\n<style>\r\
+  \n\r\n    .img-main-single {\r\n        width: 100%;\r\n        max-width: 100%;\r\
+  \n        height: auto;\r\n        border: #fff 3px solid;\r\n        border-radius:\
+  \ .5rem;\r\n    }\r\n\r\n    .vue-pz-content {\r\n        border: #bbb 3px solid;\r\
+  \n        background-color: #fff;\r\n        border-radius: 1rem;\r\n        margin:\
+  \ 1rem;\r\n        padding: 1.2rem;\r\n    }\r\n\r\n</style>"

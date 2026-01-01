@@ -1,0 +1,20 @@
+content:
+- N2PH 题目列表
+links:
+- path: n2ph/pages/main
+  title: 返回索引页
+  type: page
+- path: n2ph/problems/3/15
+  title: 天窗之下
+  type: problem
+- path: n2ph/problems/3/16
+  title: 图书馆中
+  type: problem
+- path: n2ph/problems/3/17
+  title: PREMETA 文字游戏
+  type: problem
+- path: n2ph/problems/3/18
+  title: 盘上黑白
+  type: problem
+title: 正赛白棋线
+type: page

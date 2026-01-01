@@ -1,0 +1,43 @@
+answer: CHECKMATE
+content:
+- "\r\n<!-- n2ph-1 Puzzle -->\r\n<template>\r\n\r\n    <div class=\"vue-pz-content\"\
+  >\r\n        <img class=\"img-main-single\" :src=\"imgSource\" :alt=\"imgAlt\" />\r\
+  \n        <p>你可以:<a :href=\"pdfSource\" target=\"_blank\">下载题目PDF</a></p>\r\n  \
+  \      <p>Ans:{{' _'.repeat(ansLength)}}</p>\r\n    </div>\r\n    \r\n\r\n</template>\r\
+  \n\r\n<style>\r\n\r\n    .img-main-single {\r\n        width: 100%;\r\n        max-width:\
+  \ 100%;\r\n        height: auto;\r\n        border: #fff 3px solid;\r\n        border-radius:\
+  \ .5rem;\r\n    }\r\n\r\n    .vue-pz-content {\r\n        border: #bbb 3px solid;\r\
+  \n        background-color: #fff;\r\n        border-radius: 1rem;\r\n        margin:\
+  \ 1rem;\r\n        padding: 1.2rem;\r\n    }\r\n\r\n</style>"
+content-type: 2
+desc: '白日之下，只有黑棋显现了出来……每一步都走在何方？ '
+extend-data: ''
+links:
+- path: n2ph/index
+  title: 索引页
+  type: index
+- path: n2ph/pages/b
+  title: 正赛黑棋线
+  type: page
+tips:
+- content: 请查看题目列表上方的图案以及题册与题卡（线下发放）N2PH：IN MACHU PICCHU的两边，每道题都对应了一个棋子。你应当通过前12道小题的题目背景或标题或题目形式或做题过程，将棋子和DEBRIS一一对应。
+  title: 我毫无头绪 (500提示点)
+- content: 棋子所落入的格子（例如a1）可以看做为是一种索引。（a1可以看做为单词的第一个字母是a）每一枚棋子都始终在依据其对应的DEBRIS走，根据红色或蓝色决定其依据的是DEBRIS的前一个单词还是后一个单词。
+  title: DEBRIS该如何使用？ (600提示点)
+- content: 根据PREMETA中画有阴影的8x8范围，提取出每一步棋子所落到的格子在PREMETA中的8x8格子所对应的位置内填有的字母。
+  title: 该如何提取 (600提示点)
+title: 盘上黑白
+type: problem
+vue_script: "var __vue_puzzle_component__=function(e){\"use strict\";return{setup:()=>({imgSource:e.ref(\"\
+  /n2ph/static/17647cee197243a98d9950b9e9b34395.webp\"),pdfSource:e.ref(\"/n2ph/static/1ba6b9a8d1a1439d8bc90ca769640af3.pdf\"\
+  ),imgAlt:e.ref(\"盘上黑白\"),ansLength:e.ref(9)})}}(Vue);\r\n\r\n\r\n// 确保导出名称正确\r\n\
+  export default __vue_puzzle_component__;"
+vue_template: "\r\n<!-- n2ph-1 Puzzle -->\r\n<template>\r\n\r\n    <div class=\"vue-pz-content\"\
+  >\r\n        <img class=\"img-main-single\" :src=\"imgSource\" :alt=\"imgAlt\" />\r\
+  \n        <p>你可以:<a :href=\"pdfSource\" target=\"_blank\">下载题目PDF</a></p>\r\n  \
+  \      <p>Ans:{{' _'.repeat(ansLength)}}</p>\r\n    </div>\r\n    \r\n\r\n</template>\r\
+  \n\r\n<style>\r\n\r\n    .img-main-single {\r\n        width: 100%;\r\n        max-width:\
+  \ 100%;\r\n        height: auto;\r\n        border: #fff 3px solid;\r\n        border-radius:\
+  \ .5rem;\r\n    }\r\n\r\n    .vue-pz-content {\r\n        border: #bbb 3px solid;\r\
+  \n        background-color: #fff;\r\n        border-radius: 1rem;\r\n        margin:\
+  \ 1rem;\r\n        padding: 1.2rem;\r\n    }\r\n\r\n</style>"

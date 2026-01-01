@@ -1,0 +1,22 @@
+content:
+- 服务器脚本 tn-check 第九题服务器时间同步
+key: tn-check
+psid: 1
+script: "// @ts-check\r\n\r\n// ========== 服务端 main 函数 ==========\r\nfunction main()\
+  \ {\r\n    const targetDateTime = new Date(2025, 11, 31, 12, 0, 0);\r\n\r\n    const\
+  \ now = new Date();\r\n\r\n    const baseNumber = 1145141919325609;\r\n    const\
+  \ offset = 33554432;\r\n\r\n    if (now > targetDateTime) {\r\n        // 是目标日期\
+  \ 20:00 之后（包括未来任意时间）\r\n        // 返回 baseNumber 的倍数 + offset（这里用 1 倍，也可改用随机倍数）\r\
+  \n        return baseNumber * Math.floor(Math.random()*5.99+1) + offset;\r\n   \
+  \ } else {\r\n        // 当前时间未到或正好是目标日 20:00 前（含等于也不满足“之后”）\r\n        const min\
+  \ = baseNumber + 1; // 必须大于 baseNumber\r\n        const max = Number.MAX_SAFE_INTEGER;\r\
+  \n\r\n        // 生成 [min, max] 范围内的随机整数\r\n        const range = max - min + 1;\r\
+  \n        // Math.random() 最多提供约 53 位精度，但在此范围内足够生成安全整数\r\n        const randomOffset\
+  \ = Math.floor(Math.random() * range);\r\n        return min + randomOffset;\r\n\
+  \    }\r\n\r\n}\r\n\r\n//=======以下是JSON解析与调用脚本，一般不需要修改========\r\n/**\r\n * @param\
+  \ {Ctx} ctx 全局上下文对象\r\n */\r\n\r\nfunction _jsonProcessHelper(ctx) {\r\n    let\
+  \ request = JSON.parse(ctx.request);\r\n    request = request;\r\n    let resBody\
+  \ = main();\r\n    let resString = JSON.stringify(resBody);\r\n    ctx.response(resString);\r\
+  \n}\r\n\r\n_jsonProcessHelper(ctx);"
+title: 第九题服务器时间同步
+type: backend_script

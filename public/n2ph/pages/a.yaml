@@ -1,0 +1,38 @@
+content:
+- N2PH 题目列表
+links:
+- path: n2ph/pages/main
+  title: 返回索引页
+  type: page
+- path: n2ph/problems/1/1
+  title: 岁星片影
+  type: problem
+- path: n2ph/problems/1/2
+  title: 古道密语
+  type: problem
+- path: n2ph/problems/1/3
+  title: 异星菌落
+  type: problem
+- path: n2ph/problems/1/4
+  title: 瘟疫石板
+  type: problem
+- path: n2ph/problems/1/5
+  title: 几何光学
+  type: problem
+- path: n2ph/problems/1/6
+  title: 指向何方
+  type: problem
+- path: n2ph/problems/1/7
+  title: 混音留声
+  type: problem
+- path: n2ph/problems/1/8
+  title: 墙面涂鸦
+  type: problem
+- path: n2ph/problems/1/9
+  title: '【正赛】眼中寻珠'
+  type: problem
+- path: n2ph/problems/1/10
+  title: '【正赛】迷途未竟'
+  type: problem
+title: '预热赛+正赛'
+type: page

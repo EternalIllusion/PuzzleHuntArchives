@@ -1,0 +1,24 @@
+content:
+- n2ph 分区列表
+links:
+- path: n2ph/index
+  title: N2PH
+  type: index
+- path: n2ph/pages/a
+  title: '预热赛+正赛'
+  type: page
+- path: n2ph/pages/b
+  title: 正赛黑棋线
+  type: page
+- path: n2ph/pages/c
+  title: 正赛白棋线
+  type: page
+- path: n2ph/pages/d
+  title: '真Final Meta'
+  type: page
+- title: 公告
+  type: announcements
+  path: n2ph/announcements
+
+title: n2ph 首页
+type: page

@@ -1,0 +1,72 @@
+content:
+- 服务器脚本 tn-content 第九题实际内容
+key: tn-content
+psid: 2
+script: "// @ts-check\r\n\r\nfunction checkProgress() {\r\n    let results = 0;\r\n\
+  \    const pids  = [1,2,3,4,5,6,7,8]\r\n    pids.forEach(function(i){\r\n      \
+  \  try{\r\n            results += ctx.hasPuzzleFinished(i)?1:0;\r\n        }\r\n\
+  \        catch(e){\r\n            results -= 100;\r\n        }\r\n    })\r\n   \
+  \ return results;\r\n}\r\n\r\n// ========== 服务端 main 函数 ==========\r\nfunction main()\
+  \ {\r\n    const targetDateTime = new Date(2025, 11, 31, 12, 0, 0);\r\n\r\n    const\
+  \ now = new Date();\r\n\r\n    if (now > targetDateTime) {\r\n        const prog\
+  \ = checkProgress();\r\n        if(prog>=4){\r\n            return `<table border=\"\
+  1\">\r\n                <tr>\r\n                    <td>S</td>\r\n             \
+  \       <td>C</td>\r\n                    <td>O</td>\r\n                    <td>V</td>\r\
+  \n                    <td>A</td>\r\n                    <td>D</td>\r\n         \
+  \           <td>A</td>\r\n                    <td>R</td>\r\n                   \
+  \ <td>I</td>\r\n                </tr>\r\n                <tr>\r\n              \
+  \      <td>E</td>\r\n                    <td>E</td>\r\n                    <td>C</td>\r\
+  \n                    <td>E</td>\r\n                    <td>P</td>\r\n         \
+  \           <td>S</td>\r\n                    <td>L</td>\r\n                   \
+  \ <td>K</td>\r\n                    <td>M</td>\r\n                </tr>\r\n    \
+  \            <tr>\r\n                    <td>R</td>\r\n                    <td>G</td>\r\
+  \n                    <td>A</td>\r\n                    <td>R</td>\r\n         \
+  \           <td>H</td>\r\n                    <td>S</td>\r\n                   \
+  \ <td>E</td>\r\n                    <td>N</td>\r\n                    <td>I</td>\r\
+  \n                </tr>\r\n                <tr>\r\n                    <td>B</td>\r\
+  \n                    <td>L</td>\r\n                    <td>O</td>\r\n         \
+  \           <td>P</td>\r\n                    <td>O</td>\r\n                   \
+  \ <td>S</td>\r\n                    <td>T</td>\r\n                    <td>O</td>\r\
+  \n                    <td>T</td>\r\n                </tr>\r\n                <tr>\r\
+  \n                    <td>E</td>\r\n                    <td>E</td>\r\n         \
+  \           <td>C</td>\r\n                    <td>N</td>\r\n                   \
+  \ <td>I</td>\r\n                    <td>I</td>\r\n                    <td>Y</td>\r\
+  \n                    <td>E</td>\r\n                    <td>A</td>\r\n         \
+  \       </tr>\r\n                <tr>\r\n                    <td>G</td>\r\n    \
+  \                <td>A</td>\r\n                    <td>K</td>\r\n              \
+  \      <td>O</td>\r\n                    <td>I</td>\r\n                    <td>T</td>\r\
+  \n                    <td>T</td>\r\n                    <td>I</td>\r\n         \
+  \           <td>L</td>\r\n                </tr>\r\n                <tr>\r\n    \
+  \                <td>R</td>\r\n                    <td>S</td>\r\n              \
+  \      <td>U</td>\r\n                    <td>N</td>\r\n                    <td>H</td>\r\
+  \n                    <td>S</td>\r\n                    <td>H</td>\r\n         \
+  \           <td>A</td>\r\n                    <td>I</td>\r\n                </tr>\r\
+  \n                <tr>\r\n                    <td>E</td>\r\n                   \
+  \ <td>E</td>\r\n                    <td>S</td>\r\n                    <td>S</td>\r\
+  \n                    <td>P</td>\r\n                    <td>D</td>\r\n         \
+  \           <td>P</td>\r\n                    <td>D</td>\r\n                   \
+  \ <td>M</td>\r\n                </tr>\r\n                <tr>\r\n              \
+  \      <td>S</td>\r\n                    <td>N</td>\r\n                    <td>I</td>\r\
+  \n                    <td>H</td>\r\n                    <td>A</td>\r\n         \
+  \           <td>E</td>\r\n                    <td>W</td>\r\n                   \
+  \ <td>O</td>\r\n                    <td>I</td>\r\n                </tr>\r\n    \
+  \        </table>\r\n            <div class=\"pz-centred ital\">\r\n           \
+  \     <p>\r\n                    an instance of obstructing<br><br>\r\n        \
+  \            the act or fact of obscuring<br><br>\r\n                    the state\
+  \ of near absence of light<br><br>\r\n                    a certain arrangement\
+  \ of objects<br><br>\r\n                    cast a shade over<br><br>\r\n      \
+  \              the light or direct rays of the sun<br><br>\r\n                 \
+  \   the phase of full concealment<br><br>\r\n                </p>\r\n          \
+  \  </div>\r\n            <p>Ans: _ _ _ _ _ _ _</p>`;\r\n        }\r\n        else{\r\
+  \n            if(prog<0){\r\n                return `<h1>题目数据异常，请发送站内信上报管理员。错误码：\
+  \ SDE${prog}_${ctx.gid}_${ctx.uid}</h1>`;\r\n            }\r\n            else{\r\
+  \n                return `<h1>您需要完成至少四道不计分题目才能查看本题。</h1><br /><h3>当前已完成：${prog}\
+  \ / 8 题。您还需要完成 ${4-prog} 题来解锁本题。</h3>`\r\n            }\r\n        }\r\n       \
+  \ \r\n    } else {\r\n        return `<h1>未知错误，请发送站内信上报管理员。错误码： CTK_${ctx.gid}_${ctx.uid}</h1>`;\r\
+  \n    }\r\n\r\n}\r\n\r\n//=======以下是JSON解析与调用脚本，一般不需要修改========\r\n/**\r\n * @param\
+  \ {Ctx} ctx 全局上下文对象\r\n */\r\n\r\nfunction _jsonProcessHelper(ctx) {\r\n    let\
+  \ request = JSON.parse(ctx.request);\r\n    request = request;\r\n    let resBody\
+  \ = main();\r\n    let resString = JSON.stringify(resBody);\r\n    ctx.response(resString);\r\
+  \n}\r\n\r\n_jsonProcessHelper(ctx);"
+title: 第九题实际内容
+type: backend_script

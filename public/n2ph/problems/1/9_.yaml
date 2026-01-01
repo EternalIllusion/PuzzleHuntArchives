@@ -1,0 +1,95 @@
+additional-answers:
+- answer: COVERAGE
+  extra: ''
+  message: 这是一个中间答案！
+- answer: DARKNESS
+  extra: ''
+  message: 这是一个中间答案！
+- answer: BLOCKAGE
+  extra: ''
+  message: 这是一个中间答案！
+- answer: POSITION
+  extra: ''
+  message: 这是一个中间答案！
+- answer: TOTALITY
+  extra: ''
+  message: 这是一个中间答案！
+- answer: SUNSHINE
+  extra: ''
+  message: 这是一个中间答案！
+- answer: SHADOWED
+  extra: ''
+  message: 这是一个中间答案！
+answer: ECLIPSE
+content:
+- "\r\n<div class=\"vue-pz-content pz-centred cansee\"><table border=\"\
+  1\">\r\n                <tr>\r\n                    <td>S</td>\r\n             \
+  \       <td>C</td>\r\n                    <td>O</td>\r\n                    <td>V</td>\r\
+  \n                    <td>A</td>\r\n                    <td>D</td>\r\n         \
+  \           <td>A</td>\r\n                    <td>R</td>\r\n                   \
+  \ <td>I</td>\r\n                </tr>\r\n                <tr>\r\n              \
+  \      <td>E</td>\r\n                    <td>E</td>\r\n                    <td>C</td>\r\
+  \n                    <td>E</td>\r\n                    <td>P</td>\r\n         \
+  \           <td>S</td>\r\n                    <td>L</td>\r\n                   \
+  \ <td>K</td>\r\n                    <td>M</td>\r\n                </tr>\r\n    \
+  \            <tr>\r\n                    <td>R</td>\r\n                    <td>G</td>\r\
+  \n                    <td>A</td>\r\n                    <td>R</td>\r\n         \
+  \           <td>H</td>\r\n                    <td>S</td>\r\n                   \
+  \ <td>E</td>\r\n                    <td>N</td>\r\n                    <td>I</td>\r\
+  \n                </tr>\r\n                <tr>\r\n                    <td>B</td>\r\
+  \n                    <td>L</td>\r\n                    <td>O</td>\r\n         \
+  \           <td>P</td>\r\n                    <td>O</td>\r\n                   \
+  \ <td>S</td>\r\n                    <td>T</td>\r\n                    <td>O</td>\r\
+  \n                    <td>T</td>\r\n                </tr>\r\n                <tr>\r\
+  \n                    <td>E</td>\r\n                    <td>E</td>\r\n         \
+  \           <td>C</td>\r\n                    <td>N</td>\r\n                   \
+  \ <td>I</td>\r\n                    <td>I</td>\r\n                    <td>Y</td>\r\
+  \n                    <td>E</td>\r\n                    <td>A</td>\r\n         \
+  \       </tr>\r\n                <tr>\r\n                    <td>G</td>\r\n    \
+  \                <td>A</td>\r\n                    <td>K</td>\r\n              \
+  \      <td>O</td>\r\n                    <td>I</td>\r\n                    <td>T</td>\r\
+  \n                    <td>T</td>\r\n                    <td>I</td>\r\n         \
+  \           <td>L</td>\r\n                </tr>\r\n                <tr>\r\n    \
+  \                <td>R</td>\r\n                    <td>S</td>\r\n              \
+  \      <td>U</td>\r\n                    <td>N</td>\r\n                    <td>H</td>\r\
+  \n                    <td>S</td>\r\n                    <td>H</td>\r\n         \
+  \           <td>A</td>\r\n                    <td>I</td>\r\n                </tr>\r\
+  \n                <tr>\r\n                    <td>E</td>\r\n                   \
+  \ <td>E</td>\r\n                    <td>S</td>\r\n                    <td>S</td>\r\
+  \n                    <td>P</td>\r\n                    <td>D</td>\r\n         \
+  \           <td>P</td>\r\n                    <td>D</td>\r\n                   \
+  \ <td>M</td>\r\n                </tr>\r\n                <tr>\r\n              \
+  \      <td>S</td>\r\n                    <td>N</td>\r\n                    <td>I</td>\r\
+  \n                    <td>H</td>\r\n                    <td>A</td>\r\n         \
+  \           <td>E</td>\r\n                    <td>W</td>\r\n                   \
+  \ <td>O</td>\r\n                    <td>I</td>\r\n                </tr>\r\n    \
+  \        </table>\r\n            <div class=\"pz-centred ital\">\r\n           \
+  \     <p>\r\n                    an instance of obstructing<br><br>\r\n        \
+  \            the act or fact of obscuring<br><br>\r\n                    the state\
+  \ of near absence of light<br><br>\r\n                    a certain arrangement\
+  \ of objects<br><br>\r\n                    cast a shade over<br><br>\r\n      \
+  \              the light or direct rays of the sun<br><br>\r\n                 \
+  \   the phase of full concealment<br><br>\r\n                </p>\r\n          \
+  \  </div>\r\n            <p>Ans: _ _ _ _ _ _ _</p>\r\n</div><style>.pz-centred{display:flex;flex-direction:column;align-items:center;justify-content:center}.vue-pz-content{border:#bbb 3px solid;background-color:#fff;border-radius:1rem;margin:1rem;padding:1.2rem}td{height:2rem;width:2rem;justify-content:center;align-items:center;display:flex;flex-direction:row}table{display:flex;flex-direction:column;margin-bottom:2rem}tr{display:flex;flex-direction:row}.finish-info{margin-top:1.75rem}.cansee p,.cansee td{font-family:Georgia,'Times New Roman',Times,serif}.cansee .ital{font-style:italic}</style>"
+content-type: 0
+desc: "<div class=\"tip-block custom-block\">\n  <span class=\"custom-block-title\"\
+  >?</span>\n  <span>本题具有中间答案验证</span>\n</div>\n<div class=\"tip-block custom-block\"\
+  >\n  <span class=\"custom-block-title\">?</span>\n  <span>本题于2025/12/28 0:52进行了修改：增加了通过题目数要求。</span>\n\
+  </div>\n哦，<strong>多眼的炽天使</strong>，在祢的眸间……"
+extend-data: ''
+links:
+- path: n2ph/index
+  title: 索引页
+  type: index
+- path: n2ph/pages/a
+  title: 预热赛+正赛
+  type: page
+tips:
+- content: 我毫无头绪
+  title: 9
+- content: 我还是不明白我要做什么
+  title: 9
+- content: 该如何提取
+  title: 9
+title: '眼中寻珠 '
+type: problem

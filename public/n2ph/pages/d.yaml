@@ -1,0 +1,11 @@
+content:
+- N2PH之终 题目列表
+links:
+- path: n2ph/pages/main
+  title: 返回索引页
+  type: page
+- path: n2ph/problems/4/19
+  title: 马丘比丘之谜
+  type: problem
+title: '真Final Meta'
+type: page
