@@ -1,0 +1,134 @@
+content:
+- "这扇大门，似乎真的是纯金铸就的。而岁月好似无法攻陷它，没有一点磨损，连细小的痕迹也找不到。\r\n\r\n我翻遍了挎包里的所有东西，没有钥匙。我想它大概在附近，于是便弯下身，拨开脚边的杂草，或许，是某段长相奇异的树枝？\r\
+  \n\r\n而我找到的是一张低——杂糅在泥土与草砾间、带着潮湿的草地特有的气息。边缘已略显腐烂，字迹几乎无法辨认，唯有线条与图案依旧清晰——不仅清晰而且很熟悉。\r\
+  \n\r\n一路以来，如现在这般的感受实在太多，多到令我近乎本能地开始搜索自身，尝试找到那个与之相似的事物。\r\n\r\n祖母的地图，祖父也有一份一模一样的。\r\
+  \n\r\n看来祖父一定到过这里了。我不禁开始想象，他也定是走过了迷官，走到我此刻站着的位置，在这里丢失了地图。\r\n\r\n那么，他又去了哪里？\r\n\r\
+  \n他为什么没有回来？\r\n\r\n太阳逐渐西沉，来自因蒂的最后一道光芒，照进锁眼。\r\n\r\n通向这片遗产最终秘密的大门，缓缓开启。\r\n\r\n----\r\
+  \n\r\n走进门，我正身处站在一座宏伟的神庙之中。我环顾四周，一切都似曾相识。\r\n\r\n神庙无论是装饰风格还是纹样，都彰显着其印加风格。祭祀神明的庙宇中，一切都流露着一种强烈的使人战栗的庄严。黑白相间的大理石地砖展现出极其严格的秩序、似乎只要环境是严格守序的，贸然闯入的恶灵也会因此而守序地列队退散。四角的四根石柱极威严地竦立着，上面雕有梯子的纹样，据传是为了引导驱魔后洁净的灵魂走向至高无上的天空。\r\
+  \n\r\n可能正因如此，石柱支起的天顶作了镂空，玻璃马赛克嵌入其中。彩色光束顺着石柱流向地面，泼洒出一片汪洋，把影像投入地面正中的水池。在光晕和微尘中，整个神庙像是在轻轻摇曳。\r\
+  \n\r\n祖父母的那本笔记本突然啪地掉出来，手稿和拓本散了一地。兴许这挎包真是件老古董，拉链已经散了不少次。我把包反背在身前，正欲将手稿塞回去，突然瞥见右下角的一幅手绘画图，和天顶正中的那块玻璃马赛克出奇地相像。\r\
+  \n\r\n在那正下方，水池中央的高台上，还有一群衣着华丽而原始的人，进行着一场古老的祭祀。人们搭着肩膀围在大祭司周围，内外两圈朝相反的方向转动，和着鼓声，像战车轰鸣驶过。祭司大声咏唱经文歌以及其夸张幅度的舞蹈仿佛要震碎天地，一切都流露着诡异与超自然。玻璃天顶上，辅祭的手中正拿着凿子，虔诚地将大祭司的谕示，刻成繁复的花纹。\r\
+  \n\r\n看来，我身处的已不再是现代，而是真切地置身于印加的时空。来时，那座迷宫尽头的大门早已无影无踪。\r\n"
+links:
+- path: n2ph/index
+  title: 返回首页
+  type: index
+- path: n2ph/articles/prologue
+  title: 序章
+  type: page
+- path: n2ph/articles/end-black
+  title: 正名之志
+  type: page
+- path: n2ph/articles/end-white
+  title: 印加覆灭
+  type: page
+- path: n2ph/articles/finalend
+  title: 马丘比丘之巅
+  type: page
+- path: n2ph/articles/fm-open
+  title: TFM开启
+  type: page
+- path: n2ph/articles/g1-p
+  title: 岁星片影
+  type: page
+- path: n2ph/articles/g1-e
+  title: 繁星碎影
+  type: page
+- path: n2ph/articles/g2-p
+  title: 古道密语
+  type: page
+- path: n2ph/articles/g2-e
+  title: 古老语言
+  type: page
+- path: n2ph/articles/g3-p
+  title: "\t异星菌落"
+  type: page
+- path: n2ph/articles/g3-e
+  title: 文明沙盘
+  type: page
+- path: n2ph/articles/g4-p
+  title: 瘟疫石板
+  type: page
+- path: n2ph/articles/g4-e
+  title: 疾病刻录
+  type: page
+- path: n2ph/articles/g5-p
+  title: 几何光学
+  type: page
+- path: n2ph/articles/g5-e
+  title: 普照八方
+  type: page
+- path: n2ph/articles/g6-p
+  title: 指向何方
+  type: page
+- path: n2ph/articles/g6-e
+  title: 将往之向
+  type: page
+- path: n2ph/articles/g7-p
+  title: 混音留声
+  type: page
+- path: n2ph/articles/g7-e
+  title: 磁带遗音
+  type: page
+- path: n2ph/articles/g8-p
+  title: 墙面涂鸦
+  type: page
+- path: n2ph/articles/g8-e
+  title: 壁上纹样
+  type: page
+- path: n2ph/articles/g9-p
+  title: 眼中寻珠
+  type: page
+- path: n2ph/articles/g9-e
+  title: 点睛珍藏
+  type: page
+- path: n2ph/articles/g10-p
+  title: 迷途未竟
+  type: page
+- path: n2ph/articles/g10-e
+  title: 长路终焉
+  type: page
+- path: n2ph/articles/g11-p
+  title: 天窗之下
+  type: page
+- path: n2ph/articles/g11-e
+  title: 穹顶投光
+  type: page
+- path: n2ph/articles/g12-p
+  title: 图书馆中
+  type: page
+- path: n2ph/articles/g12-e
+  title: 秘密书单
+  type: page
+- path: n2ph/articles/g13-p
+  title: 文字游戏
+  type: page
+- path: n2ph/articles/g13-e
+  title: 最初时刻
+  type: page
+- path: n2ph/articles/g14-p
+  title: 盘上黑白
+  type: page
+- path: n2ph/articles/g15-p
+  title: 天窗之下
+  type: page
+- path: n2ph/articles/g15-e
+  title: 穹顶投光
+  type: page
+- path: n2ph/articles/g16-p
+  title: 图书馆中
+  type: page
+- path: n2ph/articles/g16-e
+  title: 秘密书单
+  type: page
+- path: n2ph/articles/g17-p
+  title: 文字游戏
+  type: page
+- path: n2ph/articles/g17-e
+  title: 最终时刻
+  type: page
+- path: n2ph/articles/g18-p
+  title: 盘上黑白
+  type: page
+title: 天窗之下
+type: page

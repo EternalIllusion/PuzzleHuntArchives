@@ -4,27 +4,20 @@ additional-answers:
   message: 这是一个里程碑，虽然不是最终答案，但标志着你向正确答案前进了一大步！
 answer: INSECT
 content:
-- "\r\n<!-- n2ph-1 Puzzle -->\r\n<template>\r\n\r\n    <div class=\"vue-pz-content\"\
-  >\r\n        <img class=\"img-main-single\" :src=\"imgSource\" :alt=\"imgAlt\" />\r\
-  \n        <p>Ans:{{' _'.repeat(ansLength)}}</p>\r\n    </div>\r\n    \r\n\r\n</template>\r\
-  \n\r\n<style>\r\n\r\n    .img-main-single {\r\n        width: 100%;\r\n        max-width:\
-  \ 100%;\r\n        height: auto;\r\n        border: #fff 3px solid;\r\n        border-radius:\
-  \ .5rem;\r\n    }\r\n\r\n    .vue-pz-content {\r\n        border: #bbb 3px solid;\r\
-  \n        background-color: #fff;\r\n        border-radius: 1rem;\r\n        margin:\
-  \ 1rem;\r\n        padding: 1.2rem;\r\n    }\r\n\r\n</style>"
+- "<div class=\"tip-block custom-block\">\n  <span class=\"custom-block-title\">?</span>\n\
+  \  <span>本题不参与比赛计分</span>\n</div>\n\n<div class=\"tip-block custom-block\">\n  <span\
+  \ class=\"custom-block-title\">?</span>\n  <span>本题有一个中间答案（里程碑）</span>\n</div>\n\
+  \n桌布上摊放着一本观察记录，记录着培养皿里一批似乎是天外来客的未知生物\n\n可惜祖父的离去让记录没有继续下去，本来8年，就足够让一切的真相依次水落石出……"
 content-type: 2
-desc: "<div class=\"tip-block custom-block\">\n  <span class=\"custom-block-title\"\
-  >?</span>\n  <span>本题不参与比赛计分</span>\n</div>\n\n<div class=\"tip-block custom-block\"\
-  >\n  <span class=\"custom-block-title\">?</span>\n  <span>本题有一个中间答案（里程碑）</span>\n\
-  </div>\n\n桌布上摊放着一本观察记录，记录着培养皿里一批似乎是天外来客的未知生物\n\n可惜祖父的离去让记录没有继续下去，本来8年，就足够让一切的真相依次水落石出……"
+desc: ''
 extend-data: ''
 links:
 - path: n2ph/index
   title: 索引页
   type: index
 - path: n2ph/pages/a
-  title: 预热赛+正赛
-  type: page
+  pgid: 1
+  title: N2PH
 tips:
 - content: 'SGA是指附魔台周围悬浮的粒子使用的语言系统，这种语言系统是什么？它们如何书写？
 

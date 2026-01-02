@@ -1,25 +1,17 @@
 answer: NAHUATL
 content:
-- "\r\n<!-- n2ph-1 Puzzle -->\r\n<template>\r\n\r\n    <div class=\"vue-pz-content\"\
-  >\r\n        <p>ALTHOUGH CONSIDERED PECULIAR __(7)__ </p>\r\n        <img class=\"\
-  img-main-single\" :src=\"imgSource\" :alt=\"imgAlt\" />\r\n        <p>Ans:{{' _'.repeat(ansLength)}}</p>\r\
-  \n    </div>\r\n    \r\n\r\n</template>\r\n\r\n<style>\r\n\r\n\r\n    .img-main-single\
-  \ {\r\n        width: auto;\r\n        max-width: 100%;\r\n        max-height: 60vh;\r\
-  \n        height: auto;\r\n        border: #fff 3px solid;\r\n        border-radius:\
-  \ .5rem;\r\n    }\r\n\r\n    .vue-pz-content {\r\n        border: #bbb 3px solid;\r\
-  \n        background-color: #fff;\r\n        border-radius: 1rem;\r\n        margin:\
-  \ 1rem;\r\n        padding: 1.2rem;\r\n    }\r\n\r\n</style>"
+- "<div class=\"tip-block custom-block\">\n  <span class=\"custom-block-title\">?</span>\n\
+  \  <span>本题不参与比赛计分</span>\n</div>\n\n孩子们竟然把涂鸦从最下面一直画到了最上面！"
 content-type: 2
-desc: "<div class=\"tip-block custom-block\">\n  <span class=\"custom-block-title\"\
-  >?</span>\n  <span>本题不参与比赛计分</span>\n</div>\n\n孩子们竟然把涂鸦从最下面一直画到了最上面！"
+desc: ''
 extend-data: ''
 links:
 - path: n2ph/index
   title: 索引页
   type: index
 - path: n2ph/pages/a
-  title: 预热赛+正赛
-  type: page
+  pgid: 1
+  title: N2PH
 tips:
 - content: 题目中的三个单词分别对应了左边的三根绳子，你需要尝试找出最右边的绳子对应了哪个词语。FT中的某十二个字表明了你应该怎么对应
   title: 我毫无头绪 (500提示点)

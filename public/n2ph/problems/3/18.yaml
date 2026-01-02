@@ -1,24 +1,16 @@
 answer: OVERTURN
 content:
-- "\r\n<!-- n2ph-1 Puzzle -->\r\n<template>\r\n\r\n    <div class=\"vue-pz-content\"\
-  >\r\n        <img class=\"img-main-single\" :src=\"imgSource\" :alt=\"imgAlt\" />\r\
-  \n        <p>你可以:<a :href=\"pdfSource\" target=\"_blank\">下载题目PDF</a></p>\r\n  \
-  \      <p>Ans:{{' _'.repeat(ansLength)}}</p>\r\n    </div>\r\n    \r\n\r\n</template>\r\
-  \n\r\n<style>\r\n\r\n    .img-main-single {\r\n        width: 100%;\r\n        max-width:\
-  \ 100%;\r\n        height: auto;\r\n        border: #fff 3px solid;\r\n        border-radius:\
-  \ .5rem;\r\n    }\r\n\r\n    .vue-pz-content {\r\n        border: #bbb 3px solid;\r\
-  \n        background-color: #fff;\r\n        border-radius: 1rem;\r\n        margin:\
-  \ 1rem;\r\n        padding: 1.2rem;\r\n    }\r\n\r\n</style>"
+- '夜晚之中，只有白棋显现了出来……每一步都走在何方？ '
 content-type: 2
-desc: '夜晚之中，只有白棋显现了出来……每一步都走在何方？ '
+desc: ''
 extend-data: ''
 links:
 - path: n2ph/index
   title: 索引页
   type: index
 - path: n2ph/pages/c
-  title: 正赛白棋线
-  type: page
+  pgid: 3
+  title: N2PH
 tips:
 - content: 请查看题目列表上方的图案以及题册与题卡（线下发放）N2PH：IN MACHU PICCHU的两边，每道题都对应了一个棋子。你应当通过前12道小题的题目背景或标题或题目形式或做题过程，将棋子和DEBRIS一一对应。
   title: 我毫无头绪 (500提示点)

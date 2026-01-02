@@ -1,0 +1,2191 @@
+content:
+- '【存档版说明】
+
+
+  此处显示的是n2ph比赛的最终结果。排名规则不是按照得分排序的。'
+scoreboarddata:
+  finished_groups:
+  - finished_group_count: 4
+    finished_puzzle_count: 19
+    gid: 126
+    group_name: Eternal Solitude
+    group_profile: 诶
+    is_finish: 1
+    total_time: 263.34609742500004
+    user_count: 1
+  - finished_group_count: 4
+    finished_puzzle_count: 19
+    gid: 136
+    group_name: Rusty Lake Sleeper
+    group_profile: The owls are not what they seem.
+    is_finish: 1
+    total_time: 263.4172617877778
+    user_count: 4
+  - finished_group_count: 4
+    finished_puzzle_count: 19
+    gid: 4
+    group_name: Crychic
+    group_profile: 没有祥子，我们4个人也可以组乐队！
+    is_finish: 1
+    total_time: 263.8743980936111
+    user_count: 4
+  - finished_group_count: 4
+    finished_puzzle_count: 19
+    gid: 193
+    group_name: 匿名
+    group_profile: pyy说的都对
+    is_finish: 1
+    total_time: 264.12093365000004
+    user_count: 4
+  - finished_group_count: 4
+    finished_puzzle_count: 19
+    gid: 13
+    group_name: 请填写此字段
+    group_profile: ''
+    is_finish: 1
+    total_time: 264.3190553088889
+    user_count: 4
+  - finished_group_count: 4
+    finished_puzzle_count: 19
+    gid: 9
+    group_name: 对啊，为什么不队
+    group_profile: ⬜️???
+    is_finish: 1
+    total_time: 264.44105164138887
+    user_count: 4
+  - finished_group_count: 4
+    finished_puzzle_count: 19
+    gid: 162
+    group_name: Pink Herring
+    group_profile: Not red herring or green herring.
+    is_finish: 1
+    total_time: 264.4916761980556
+    user_count: 3
+  - finished_group_count: 4
+    finished_puzzle_count: 19
+    gid: 15
+    group_name: 南外奎帮
+    group_profile: 奎哥
+    is_finish: 1
+    total_time: 264.50316579916665
+    user_count: 4
+  - finished_group_count: 4
+    finished_puzzle_count: 19
+    gid: 103
+    group_name: 呆报编辑部
+    group_profile: 来写来吃来玩
+    is_finish: 1
+    total_time: 264.57693827083335
+    user_count: 4
+  - finished_group_count: 4
+    finished_puzzle_count: 19
+    gid: 332
+    group_name: 闲杂无关人等
+    group_profile: 我也不知道啊反正就是来参赛了
+    is_finish: 1
+    total_time: 264.63797326
+    user_count: 3
+  - finished_group_count: 4
+    finished_puzzle_count: 19
+    gid: 96
+    group_name: 组一辈子乐队
+    group_profile: 对，对吗？
+    is_finish: 1
+    total_time: 264.7557799755555
+    user_count: 1
+  - finished_group_count: 4
+    finished_puzzle_count: 19
+    gid: 100
+    group_name: 风不清云不淡
+    group_profile: ''
+    is_finish: 1
+    total_time: 264.8058866238889
+    user_count: 1
+  - finished_group_count: 4
+    finished_puzzle_count: 19
+    gid: 148
+    group_name: 酸碱只是寄（请外援版
+    group_profile: '关注微信公众号 果壳格物推理社 谢谢呱
+
+      有幸邀请到SilverHawk老师一起参赛！'
+    is_finish: 1
+    total_time: 264.93435199944446
+    user_count: 4
+  - finished_group_count: 4
+    finished_puzzle_count: 19
+    gid: 243
+    group_name: 旁观者模式
+    group_profile: 箇队长嬉戏去爻，也朆写简介
+    is_finish: 1
+    total_time: 264.9663478102778
+    user_count: 2
+  - finished_group_count: 4
+    finished_puzzle_count: 19
+    gid: 8
+    group_name: 神秘队伍
+    group_profile: 神秘
+    is_finish: 1
+    total_time: 264.98208023166666
+    user_count: 4
+  - finished_group_count: 4
+    finished_puzzle_count: 19
+    gid: 167
+    group_name: 通灵少女的孬题裁判
+    group_profile: 我们之中混入了一位通灵少女
+    is_finish: 1
+    total_time: 264.9852712386111
+    user_count: 4
+  - finished_group_count: 4
+    finished_puzzle_count: 19
+    gid: 102
+    group_name: 25時、ナイトコードで。
+    group_profile: 25点，Nightcord见。
+    is_finish: 1
+    total_time: 265.1300828391667
+    user_count: 3
+  - finished_group_count: 4
+    finished_puzzle_count: 19
+    gid: 340
+    group_name: 肉脯看看题
+    group_profile: 单刷决定中
+    is_finish: 1
+    total_time: 265.9380317316667
+    user_count: 1
+  - finished_group_count: 4
+    finished_puzzle_count: 19
+    gid: 144
+    group_name: 蓝队
+    group_profile: 我不是蓝粉，我只是蓝大队长的鼠鼠而已
+    is_finish: 1
+    total_time: 266.6039892927778
+    user_count: 1
+  - finished_group_count: 4
+    finished_puzzle_count: 19
+    gid: 359
+    group_name: dpc0133
+    group_profile: staff
+    is_finish: 1
+    total_time: 268.05661808
+    user_count: 1
+  - finished_group_count: 4
+    finished_puzzle_count: 19
+    gid: 275
+    group_name: random
+    group_profile: ''
+    is_finish: 1
+    total_time: 268.9480872825
+    user_count: 1
+  - finished_group_count: 4
+    finished_puzzle_count: 19
+    gid: 261
+    group_name: puzzle？not at all！
+    group_profile: 快期末周了，支帐篷睡觉，随便看看题
+    is_finish: 1
+    total_time: 284.64792208333336
+    user_count: 1
+  groups:
+  - finished_group_count: 3
+    finished_puzzle_count: 18
+    gid: 143
+    group_name: OMO
+    group_profile: 不会哈气学哈气，基米咋摆你咋摆
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 3
+    finished_puzzle_count: 18
+    gid: 166
+    group_name: 看看题?
+    group_profile: '你 去打PH了对吧
+
+      和我认识的同学一起
+
+      ……
+
+      唉……
+
+      好麻烦啊……'
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 3
+    finished_puzzle_count: 18
+    gid: 195
+    group_name: Real Sample
+    group_profile: Fake SAMPLE
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 3
+    finished_puzzle_count: 18
+    gid: 298
+    group_name: 养老队
+    group_profile: 摆了
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 3
+    finished_puzzle_count: 18
+    gid: 310
+    group_name: 最强の冰之妖精
+    group_profile: bakabaka
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 3
+    finished_puzzle_count: 18
+    gid: 344
+    group_name: Not A User
+    group_profile: 请输入队伍简介
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 2
+    finished_puzzle_count: 17
+    gid: 200
+    group_name: Kromatic
+    group_profile: 半音
+    is_finish: 0
+    total_time: 264.0
+    user_count: 2
+  - finished_group_count: 2
+    finished_puzzle_count: 14
+    gid: 147
+    group_name: BMCA自由搏击社团
+    group_profile: ''
+    is_finish: 0
+    total_time: 264.0
+    user_count: 3
+  - finished_group_count: 2
+    finished_puzzle_count: 14
+    gid: 164
+    group_name: 一群沙包
+    group_profile: 不道啊我只是来看看有没有纸笔题送我一个视频素材的——Yy
+    is_finish: 0
+    total_time: 264.0
+    user_count: 2
+  - finished_group_count: 2
+    finished_puzzle_count: 14
+    gid: 172
+    group_name: 虎福威威vv
+    group_profile: It's raining tacos
+    is_finish: 0
+    total_time: 264.0
+    user_count: 4
+  - finished_group_count: 2
+    finished_puzzle_count: 14
+    gid: 184
+    group_name: bread
+    group_profile: ''
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 2
+    finished_puzzle_count: 14
+    gid: 187
+    group_name: Victor
+    group_profile: Victor
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 2
+    finished_puzzle_count: 14
+    gid: 348
+    group_name: QRKD
+    group_profile: ''
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 2
+    finished_puzzle_count: 14
+    gid: 355
+    group_name: ddd
+    group_profile: qwerty
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 2
+    finished_puzzle_count: 13
+    gid: 91
+    group_name: 无人问津的阴雨霉湿之地
+    group_profile: 完不了赛当晚线下面基出题组
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 1
+    finished_puzzle_count: 13
+    gid: 14
+    group_name: jm汉化组
+    group_profile: 全都不会做！
+    is_finish: 0
+    total_time: 264.0
+    user_count: 4
+  - finished_group_count: 1
+    finished_puzzle_count: 13
+    gid: 105
+    group_name: 食堂干饭飞舞
+    group_profile: 我是馋猫我先吃
+    is_finish: 0
+    total_time: 264.0
+    user_count: 3
+  - finished_group_count: 1
+    finished_puzzle_count: 13
+    gid: 106
+    group_name: リドルジョーカー
+    group_profile: 我毫无头绪???琵琶拨尽四弦悲???我毫无头绪???琵琶拨尽四弦悲???我毫无头绪???琵琶拨尽四弦悲???
+    is_finish: 0
+    total_time: 264.0
+    user_count: 3
+  - finished_group_count: 1
+    finished_puzzle_count: 13
+    gid: 216
+    group_name: 阵雨花园
+    group_profile: 你在线上题部分里学到了许多，足以应对接下来的所有挑战。“头脑好清醒，怀着这么昂扬的斗志去解谜还是头一次，已经没有什么好怕的了！”
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 1
+    finished_puzzle_count: 13
+    gid: 296
+    group_name: . z Z
+    group_profile: ''
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 1
+    finished_puzzle_count: 13
+    gid: 339
+    group_name: F1O2REV2E6R
+    group_profile: 3 Years
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 1
+    finished_puzzle_count: 12
+    gid: 5
+    group_name: 赫尔墨斯
+    group_profile: 然后把你完整的脑子放进去?
+    is_finish: 0
+    total_time: 264.0
+    user_count: 4
+  - finished_group_count: 1
+    finished_puzzle_count: 12
+    gid: 174
+    group_name: BOOM
+    group_profile: Jorge
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 1
+    finished_puzzle_count: 11
+    gid: 17
+    group_name: 逼
+    group_profile: ''
+    is_finish: 0
+    total_time: 264.0
+    user_count: 3
+  - finished_group_count: 1
+    finished_puzzle_count: 11
+    gid: 125
+    group_name: 自定义鸽子赛1
+    group_profile: '来打鸽子赛吧
+
+      鸽子赛队伍里为什么没有葛子塞'
+    is_finish: 0
+    total_time: 264.0
+    user_count: 4
+  - finished_group_count: 1
+    finished_puzzle_count: 11
+    gid: 138
+    group_name: 羊八井杨队
+    group_profile: '?'
+    is_finish: 0
+    total_time: 264.0
+    user_count: 2
+  - finished_group_count: 1
+    finished_puzzle_count: 10
+    gid: 95
+    group_name: Lt.lcu
+    group_profile: Lt.lcu
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 1
+    finished_puzzle_count: 10
+    gid: 99
+    group_name: 医生我们有神经病对不队
+    group_profile: 我是二毕
+    is_finish: 0
+    total_time: 264.0
+    user_count: 4
+  - finished_group_count: 1
+    finished_puzzle_count: 10
+    gid: 161
+    group_name: 希望能完赛
+    group_profile: 做了两次ph全都是只做了一半的新手
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 1
+    finished_puzzle_count: 10
+    gid: 213
+    group_name: 浪费好题队
+    group_profile: 因为太菜了遇到好题也做不出来只能浪费掉
+    is_finish: 0
+    total_time: 264.0
+    user_count: 4
+  - finished_group_count: 1
+    finished_puzzle_count: 10
+    gid: 237
+    group_name: 嘿嘿呼呼
+    group_profile: 哈哈
+    is_finish: 0
+    total_time: 264.0
+    user_count: 2
+  - finished_group_count: 1
+    finished_puzzle_count: 10
+    gid: 238
+    group_name: 松鼠小队
+    group_profile: '1'
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 1
+    finished_puzzle_count: 10
+    gid: 352
+    group_name: hc83
+    group_profile: ''
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 1
+    finished_puzzle_count: 9
+    gid: 3
+    group_name: 广告位招租
+    group_profile: 111广告位招租详情请拨打12345678910
+    is_finish: 0
+    total_time: 264.0
+    user_count: 3
+  - finished_group_count: 1
+    finished_puzzle_count: 9
+    gid: 97
+    group_name: 云喊你回家吃菌子
+    group_profile: '?'
+    is_finish: 0
+    total_time: 264.0
+    user_count: 3
+  - finished_group_count: 1
+    finished_puzzle_count: 9
+    gid: 131
+    group_name: 何意味是什么意思呢
+    group_profile: hywhywhywhywhywhywhywhyw
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 1
+    finished_puzzle_count: 9
+    gid: 239
+    group_name: 不学数学队
+    group_profile: ''
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 1
+    finished_puzzle_count: 9
+    gid: 266
+    group_name: Hannah笙
+    group_profile: '123454321'
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 1
+    finished_puzzle_count: 8
+    gid: 342
+    group_name: Casper
+    group_profile: 重在参与～
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 1
+    finished_puzzle_count: 8
+    gid: 346
+    group_name: 喵喵喵喵喵
+    group_profile: ''
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 1
+    finished_puzzle_count: 7
+    gid: 169
+    group_name: （
+    group_profile: ''
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 1
+    finished_puzzle_count: 7
+    gid: 311
+    group_name: 李明APT队
+    group_profile: 高一(7)班
+    is_finish: 0
+    total_time: 264.0
+    user_count: 3
+  - finished_group_count: 1
+    finished_puzzle_count: 7
+    gid: 357
+    group_name: xyx的父亲们
+    group_profile: ''
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 1
+    finished_puzzle_count: 7
+    gid: 361
+    group_name: 一个好队伍
+    group_profile: ''
+    is_finish: 0
+    total_time: 264.0
+    user_count: 2
+  - finished_group_count: 0
+    finished_puzzle_count: 9
+    gid: 142
+    group_name: 雀批的世界
+    group_profile: 只有两个雀批……
+    is_finish: 0
+    total_time: 264.0
+    user_count: 2
+  - finished_group_count: 0
+    finished_puzzle_count: 9
+    gid: 279
+    group_name: 我是取名废物
+    group_profile: 何忆卫
+    is_finish: 0
+    total_time: 264.0
+    user_count: 2
+  - finished_group_count: 0
+    finished_puzzle_count: 9
+    gid: 290
+    group_name: 贝贝南瓜队
+    group_profile: 不知道写啥那就不写了
+    is_finish: 0
+    total_time: 264.0
+    user_count: 2
+  - finished_group_count: 0
+    finished_puzzle_count: 9
+    gid: 303
+    group_name: lkk
+    group_profile: 来看看
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 9
+    gid: 304
+    group_name: wow
+    group_profile: 无
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 9
+    gid: 306
+    group_name: colin玩galagame
+    group_profile: 我是colin我爱玩旮旯给木
+    is_finish: 0
+    total_time: 264.0
+    user_count: 2
+  - finished_group_count: 0
+    finished_puzzle_count: 9
+    gid: 333
+    group_name: zz
+    group_profile: ''
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 8
+    gid: 153
+    group_name: 豆知识
+    group_profile: 大豆是豆科大豆属的一年生草本植物，高30-90厘米。茎粗壮，直立，密被褐色长硬毛。叶通常具3小叶；托叶具脉纹，被黄色柔毛；叶柄长2-20厘米；小叶宽卵形，纸质；总状花序短的少花，长的多花；总花梗通常有5-8朵无柄、紧挤的花；苞皮披针形，被糙伏毛；小苞片披针形，被伏贴的刚毛；花萼披针形，花紫色、淡紫色或白色，基部具瓣柄，翼瓣蓖状。荚果肥大，稍弯，下垂，黄绿色，密被褐黄色长毛；种子2-5颗，椭圆形、近球形，种皮光滑，有淡绿、黄、褐和黑色等多样。花期6-7月，果期7-9月。
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 8
+    gid: 158
+    group_name: 鸬鹚不发了
+    group_profile: 怀疑问
+    is_finish: 0
+    total_time: 264.0
+    user_count: 2
+  - finished_group_count: 0
+    finished_puzzle_count: 8
+    gid: 163
+    group_name: ヘルエスタ王国
+    group_profile: 随便看看题
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 8
+    gid: 165
+    group_name: 403 FORBIDDEN
+    group_profile: 哈基谜难被捋动
+    is_finish: 0
+    total_time: 264.0
+    user_count: 2
+  - finished_group_count: 0
+    finished_puzzle_count: 8
+    gid: 178
+    group_name: pizzahunter，但只有其中一个人
+    group_profile: pizzahunter分裂成了三个队伍！（其实是四个）
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 8
+    gid: 180
+    group_name: 这什么
+    group_profile: 柴灣　北角　銅鑼灣　灣仔　中環　金鐘　尖沙咀　油蔴地　旺角　太子　九龍塘　沙田　上水　羅湖　深圳　廣州　廈門　台北　福州　南京　上海　北京　中環
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 8
+    gid: 186
+    group_name: test
+    group_profile: NaN
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 8
+    gid: 191
+    group_name: EMK
+    group_profile: ''
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 8
+    gid: 203
+    group_name: '1'
+    group_profile: 被迫单刷
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 8
+    gid: 204
+    group_name: 奇迹
+    group_profile: '日复一日的机械运作着，面前三色荧光单调排列，四周充满黑暗的压抑。将来更是一眼到头的坏结局。
+
+
+      完全地虚无。“充实”的机械耕耘无法撬动贫瘠的思想土壤，尽管所思所念仍然在不断创造“奇迹”，且毫无意义。
+
+
+      我所希望的奇迹究竟是什么？我认为应该是一个小概率事件的产生，对若干部分造成了影响，这些部分又相互联系，进而获得了宏观上的巨变。
+
+
+      一月复一月，黑暗在逐渐侵蚀希望。在几乎必然的绝望之下，我也只能祈望奇迹的光亮再次来临。'
+    is_finish: 0
+    total_time: 264.0
+    user_count: 3
+  - finished_group_count: 0
+    finished_puzzle_count: 8
+    gid: 210
+    group_name: yshm
+    group_profile: ''
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 8
+    gid: 212
+    group_name: 夏洛宝宝
+    group_profile: ''
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 8
+    gid: 227
+    group_name: ナンのイミ？
+    group_profile: 何意味？ナンのイミ？
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 8
+    gid: 231
+    group_name: All Simples
+    group_profile: ''
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 8
+    gid: 232
+    group_name: RVV Intrinsics
+    group_profile: '#include <riscv_vector.h>'
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 8
+    gid: 251
+    group_name: 银邦帮
+    group_profile: 南外智利巅峰
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 8
+    gid: 254
+    group_name: 不想上班
+    group_profile: ''
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 8
+    gid: 260
+    group_name: 迷路人
+    group_profile: '1'
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 8
+    gid: 262
+    group_name: 两个非空白字符，
+    group_profile: ''
+    is_finish: 0
+    total_time: 264.0
+    user_count: 2
+  - finished_group_count: 0
+    finished_puzzle_count: 8
+    gid: 263
+    group_name: sweetorange
+    group_profile: 看看题
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 8
+    gid: 267
+    group_name: Ave Mujica
+    group_profile: 组一辈子乐队吧！
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 8
+    gid: 283
+    group_name: lexiyvv
+    group_profile: cat
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 8
+    gid: 297
+    group_name: AlephOne
+    group_profile: For Fun.
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 8
+    gid: 307
+    group_name: 老咖啡
+    group_profile: ''
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 8
+    gid: 328
+    group_name: Noobself?
+    group_profile: 懒得组队了，仅看题
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 8
+    gid: 337
+    group_name: pptt
+    group_profile: ''
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 7
+    gid: 19
+    group_name: 为什么食堂永远都有那么长的队
+    group_profile: 食堂的菜就像一道窄门，你先吃完了，别人就不能吃了
+    is_finish: 0
+    total_time: 264.0
+    user_count: 3
+  - finished_group_count: 0
+    finished_puzzle_count: 7
+    gid: 124
+    group_name: xxx
+    group_profile: xxx
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 7
+    gid: 141
+    group_name: 奶龙之家
+    group_profile: 高二，纯新手
+    is_finish: 0
+    total_time: 264.0
+    user_count: 4
+  - finished_group_count: 0
+    finished_puzzle_count: 7
+    gid: 159
+    group_name: maimai
+    group_profile: ''
+    is_finish: 0
+    total_time: 264.0
+    user_count: 2
+  - finished_group_count: 0
+    finished_puzzle_count: 7
+    gid: 170
+    group_name: 滕王阁序——唐·王勃
+    group_profile: '豫章故郡，
+
+      洪都新府。
+
+      星分翼轸，
+
+      地接衡庐。
+
+      襟三江而带五湖，
+
+      控蛮荆而引瓯越。
+
+      物华天宝，
+
+      龙光射牛斗之墟；
+
+      人杰地灵，
+
+      徐孺下陈蕃之榻。
+
+      雄州雾列，
+
+      俊采星驰。
+
+      台隍枕夷夏之交，
+
+      宾主尽东南之美。
+
+      都督阎公之雅望，
+
+      棨戟遥临；
+
+      宇文新州之懿范，
+
+      襜帷暂驻。
+
+      十旬休假，
+
+      胜友如云；
+
+      千里逢迎，
+
+      高朋满座。
+
+      腾蛟起凤，
+
+      孟学士之词宗；
+
+      紫电青霜，
+
+      王将军之武库。
+
+      家君作宰，
+
+      路出名区；
+
+      童子何知，
+
+      躬逢胜饯。
+
+      时维九月，
+
+      序属三秋。
+
+      潦水尽而寒潭清，
+
+      烟光凝而暮山紫。
+
+      俨骖騑于上路，
+
+      访风景于崇阿；
+
+      临帝子之长洲，
+
+      得天人之旧馆。
+
+      层峦耸翠，
+
+      上出重霄；
+
+      飞阁流丹，
+
+      下临无地。
+
+      鹤汀凫渚，
+
+      穷岛屿之萦回；
+
+      桂殿兰宫，
+
+      即冈峦之体势。'
+    is_finish: 0
+    total_time: 264.0
+    user_count: 4
+  - finished_group_count: 0
+    finished_puzzle_count: 7
+    gid: 175
+    group_name: 建立新队伍
+    group_profile: ''
+    is_finish: 0
+    total_time: 264.0
+    user_count: 3
+  - finished_group_count: 0
+    finished_puzzle_count: 7
+    gid: 177
+    group_name: pizzahunter!
+    group_profile: 1/3?
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 7
+    gid: 183
+    group_name: pizzahuntee
+    group_profile: 被披萨狩猎
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 7
+    gid: 206
+    group_name: lx07
+    group_profile: 来观下光
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 7
+    gid: 211
+    group_name: 卧槽期末周怎么这么坏啊
+    group_profile: ''
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 7
+    gid: 221
+    group_name: golwy
+    group_profile: 看看题
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 7
+    gid: 222
+    group_name: 聚光灯柠檬果酱
+    group_profile: ''
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 7
+    gid: 246
+    group_name: 菜毛毛
+    group_profile: ''
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 7
+    gid: 249
+    group_name: 这是啥呀
+    group_profile: ''
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 7
+    gid: 258
+    group_name: 深色墨点
+    group_profile: ''
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 7
+    gid: 259
+    group_name: 水果无蔬菜
+    group_profile: 水果蔬菜队的队长自己来单挑
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 7
+    gid: 265
+    group_name: fuck the enter code
+    group_profile: ''
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 7
+    gid: 270
+    group_name: A
+    group_profile: 单人
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 7
+    gid: 285
+    group_name: 学生行动队
+    group_profile: 队伍简介
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 7
+    gid: 294
+    group_name: FerryTime
+    group_profile: ''
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 7
+    gid: 317
+    group_name: it runs out
+    group_profile: 观光旅游
+    is_finish: 0
+    total_time: 264.0
+    user_count: 4
+  - finished_group_count: 0
+    finished_puzzle_count: 7
+    gid: 324
+    group_name: 夕宝可爱
+    group_profile: ''
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 7
+    gid: 350
+    group_name: 大划水怪
+    group_profile: 只会划水的Faz.
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 6
+    gid: 10
+    group_name: 看剑看剑看剑
+    group_profile: 孩子们等我破军
+    is_finish: 0
+    total_time: 264.0
+    user_count: 2
+  - finished_group_count: 0
+    finished_puzzle_count: 6
+    gid: 11
+    group_name: 新花  故吾
+    group_profile: ''
+    is_finish: 0
+    total_time: 264.0
+    user_count: 4
+  - finished_group_count: 0
+    finished_puzzle_count: 6
+    gid: 12
+    group_name: 游客
+    group_profile: ''
+    is_finish: 0
+    total_time: 264.0
+    user_count: 2
+  - finished_group_count: 0
+    finished_puzzle_count: 6
+    gid: 29
+    group_name: IA
+    group_profile: IA
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 6
+    gid: 107
+    group_name: 自定义名称1
+    group_profile: 别让等待，成为遗憾
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 6
+    gid: 129
+    group_name: ice porridge
+    group_profile: ''
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 6
+    gid: 171
+    group_name: 玫瑰过了花期
+    group_profile: 诗茧旧梦
+    is_finish: 0
+    total_time: 264.0
+    user_count: 2
+  - finished_group_count: 0
+    finished_puzzle_count: 6
+    gid: 208
+    group_name: ？
+    group_profile: ''
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 6
+    gid: 209
+    group_name: '111'
+    group_profile: ''
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 6
+    gid: 214
+    group_name: owo
+    group_profile: 'owo
+
+      owo
+
+      owo
+
+      owo
+
+      owo
+
+      owo
+
+      owo'
+    is_finish: 0
+    total_time: 264.0
+    user_count: 2
+  - finished_group_count: 0
+    finished_puzzle_count: 6
+    gid: 215
+    group_name: VerictEmmA想吃Hiro炒饭
+    group_profile: 略
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 6
+    gid: 228
+    group_name: WFLS新手村
+    group_profile: NFLS已经有hunt了，WFLShunt在哪里？
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 6
+    gid: 233
+    group_name: 泞之翼666
+    group_profile: 为了我对他使用国学吧
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 6
+    gid: 242
+    group_name: 哪来的蛆
+    group_profile: 队友队友救一下
+    is_finish: 0
+    total_time: 264.0
+    user_count: 2
+  - finished_group_count: 0
+    finished_puzzle_count: 6
+    gid: 247
+    group_name: 看看题
+    group_profile: ''
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 6
+    gid: 252
+    group_name: 时尚单品队
+    group_profile: 当你在你的生活中遇见铺天盖地的艾玛，希罗和雪莉的时候，你有没有一种似曾相识的感觉？你是否回忆起从前那些日子，那些充斥四方的mujica，mygo，gbc，石蒜？所以，这意味着什么？一波一波的疯狂浪潮，是否也是一种贫瘠？无论如何，这不是谁的问题。我已经累了。
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 6
+    gid: 256
+    group_name: huig
+    group_profile: gdjbc
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 6
+    gid: 268
+    group_name: 万一对了呢
+    group_profile: ？
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 6
+    gid: 282
+    group_name: 我就看看题
+    group_profile: 看题
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 6
+    gid: 292
+    group_name: 人可队
+    group_profile: 前进！
+    is_finish: 0
+    total_time: 264.0
+    user_count: 3
+  - finished_group_count: 0
+    finished_puzzle_count: 6
+    gid: 314
+    group_name: 夜莺厨
+    group_profile: YYC
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 6
+    gid: 320
+    group_name: JDBY_To GE
+    group_profile: 期末周，随便看看
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 6
+    gid: 326
+    group_name: U+1F3F3
+    group_profile: ''
+    is_finish: 0
+    total_time: 264.0
+    user_count: 3
+  - finished_group_count: 0
+    finished_puzzle_count: 6
+    gid: 331
+    group_name: 观光
+    group_profile: '1'
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 6
+    gid: 336
+    group_name: BRUH
+    group_profile: HI
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 5
+    gid: 185
+    group_name: yyyyy
+    group_profile: nothing
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 5
+    gid: 199
+    group_name: 稠环芳烃
+    group_profile: ''
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 5
+    gid: 207
+    group_name: Reviver Team
+    group_profile: ''
+    is_finish: 0
+    total_time: 264.0
+    user_count: 3
+  - finished_group_count: 0
+    finished_puzzle_count: 5
+    gid: 224
+    group_name: U
+    group_profile: 小包包了包
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 5
+    gid: 250
+    group_name: War Thunder
+    group_profile: '114514'
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 5
+    gid: 253
+    group_name: 就看看
+    group_profile: ''
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 5
+    gid: 264
+    group_name: 语文Q群
+    group_profile: ''
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 5
+    gid: 269
+    group_name: 堵桥来
+    group_profile: 我的浮木似了
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 5
+    gid: 274
+    group_name: 江苏省哈基中学
+    group_profile: 妈妈只教了我哈气，没教我咬人
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 5
+    gid: 284
+    group_name: lgkl
+    group_profile: 'null'
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 5
+    gid: 353
+    group_name: '10002221'
+    group_profile: ''
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 4
+    gid: 150
+    group_name: 不要和我作队
+    group_profile: Ça sent brûlé
+    is_finish: 0
+    total_time: 264.0
+    user_count: 2
+  - finished_group_count: 0
+    finished_puzzle_count: 4
+    gid: 156
+    group_name: 你说的队
+    group_profile: 请输入队伍简介
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 4
+    gid: 196
+    group_name: .
+    group_profile: /
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 4
+    gid: 198
+    group_name: Mango
+    group_profile: Mango
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 4
+    gid: 218
+    group_name: SOLO
+    group_profile: ''
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 4
+    gid: 225
+    group_name: kon
+    group_profile: ''
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 4
+    gid: 241
+    group_name: Tiger2008
+    group_profile: 我草这是什么hunt
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 4
+    gid: 245
+    group_name: 美味金黄肉松麻薯蓝发小女孩
+    group_profile: 请给我发蓝发小女孩！
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 4
+    gid: 281
+    group_name: hungergame
+    group_profile: 看看题?
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 4
+    gid: 299
+    group_name: 何意味
+    group_profile: 无意味
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 4
+    gid: 319
+    group_name: Eva squad
+    group_profile: 小鸟游击队
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 4
+    gid: 329
+    group_name: 至死方休
+    group_profile: ''
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 4
+    gid: 334
+    group_name: 重生之我在HSY搞语言学
+    group_profile: 大理学校放过我
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 4
+    gid: 354
+    group_name: mashiro
+    group_profile: mashiro
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 4
+    gid: 356
+    group_name: 阿巴阿巴
+    group_profile: 阿巴阿巴
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 3
+    gid: 152
+    group_name: 赫儿曼ε外儿
+    group_profile: 还能更优秀
+    is_finish: 0
+    total_time: 264.0
+    user_count: 3
+  - finished_group_count: 0
+    finished_puzzle_count: 3
+    gid: 157
+    group_name: 一个队
+    group_profile: ''
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 3
+    gid: 168
+    group_name: 巴别塔圣歌
+    group_profile: 来自高一十班
+    is_finish: 0
+    total_time: 264.0
+    user_count: 2
+  - finished_group_count: 0
+    finished_puzzle_count: 3
+    gid: 201
+    group_name: avlujiba
+    group_profile: ''
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 3
+    gid: 205
+    group_name: 行行重行行
+    group_profile: ''
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 3
+    gid: 220
+    group_name: THEGENIUS
+    group_profile: 支持《游戏的法则》！单人刷一下
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 3
+    gid: 234
+    group_name: Pyromaniac
+    group_profile: ''
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 3
+    gid: 248
+    group_name: 一个环
+    group_profile: ''
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 3
+    gid: 271
+    group_name: Chugging
+    group_profile: Abcdefu
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 3
+    gid: 272
+    group_name: IO
+    group_profile: ''
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 3
+    gid: 276
+    group_name: 从千山奔赴远方
+    group_profile: ''
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 3
+    gid: 293
+    group_name: 大饮料后援会
+    group_profile: ''
+    is_finish: 0
+    total_time: 264.0
+    user_count: 2
+  - finished_group_count: 0
+    finished_puzzle_count: 2
+    gid: 140
+    group_name: CYAN
+    group_profile: ''
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 2
+    gid: 197
+    group_name: 请输入队伍名称
+    group_profile: 请输入队伍简洁
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 2
+    gid: 226
+    group_name: lightmoon
+    group_profile: ''
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 2
+    gid: 257
+    group_name: smop2
+    group_profile: ''
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 2
+    gid: 277
+    group_name: shenfenghenxili
+    group_profile: ''
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 2
+    gid: 287
+    group_name: '666'
+    group_profile: 无
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 2
+    gid: 308
+    group_name: 观光队
+    group_profile: ''
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 2
+    gid: 318
+    group_name: ?↑?
+    group_profile: 一只?发现期末周除了学习做什么都有意思
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 2
+    gid: 321
+    group_name: 一人帮也不是什么好东西
+    group_profile: 一人帮也不是什么好东西
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 1
+    gid: 6
+    group_name: 奎队
+    group_profile: '队内有奎哥出没
+
+      tm奎哥你一题不做呀，服了服了服了
+
+      踢你的球去吧'
+    is_finish: 0
+    total_time: 264.0
+    user_count: 2
+  - finished_group_count: 0
+    finished_puzzle_count: 1
+    gid: 134
+    group_name: E
+    group_profile: Permets tu?
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 1
+    gid: 135
+    group_name: TexPat
+    group_profile: ''
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 1
+    gid: 137
+    group_name: 酥淇淋炒鸡蛋
+    group_profile: ???
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 1
+    gid: 154
+    group_name: 掉炸天队
+    group_profile: ''
+    is_finish: 0
+    total_time: 264.0
+    user_count: 3
+  - finished_group_count: 0
+    finished_puzzle_count: 1
+    gid: 155
+    group_name: 半亩方糖喵
+    group_profile: 喵喵喵
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 1
+    gid: 173
+    group_name: 某队
+    group_profile: 无
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 1
+    gid: 179
+    group_name: 一氧化碳
+    group_profile: ''
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 1
+    gid: 202
+    group_name: 铃
+    group_profile: ''
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 1
+    gid: 229
+    group_name: 五十度灰
+    group_profile: ''
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 1
+    gid: 230
+    group_name: 练习中
+    group_profile: 学习中练习中。。。
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 1
+    gid: 273
+    group_name: MORE MORE JUMP!
+    group_profile: 求来个大神带带我吧。。。
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 1
+    gid: 278
+    group_name: AAAAlez
+    group_profile: Whta
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 1
+    gid: 288
+    group_name: zhengjie
+    group_profile: hhhhhh
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 1
+    gid: 289
+    group_name: Zjjt
+    group_profile: ''
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 1
+    gid: 291
+    group_name: 心野在途
+    group_profile: 看看试试
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 1
+    gid: 295
+    group_name: 荧棒帮
+    group_profile: 你猜
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 1
+    gid: 300
+    group_name: 葱头战队
+    group_profile: ''
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 1
+    gid: 309
+    group_name: 四驱兄弟
+    group_profile: ''
+    is_finish: 0
+    total_time: 264.0
+    user_count: 3
+  - finished_group_count: 0
+    finished_puzzle_count: 1
+    gid: 316
+    group_name: 神秘过路队
+    group_profile: ''
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 1
+    gid: 323
+    group_name: 请选出图片里所有的人类
+    group_profile: ''
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 1
+    gid: 327
+    group_name: lizyxO.o
+    group_profile: O.o
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 1
+    gid: 330
+    group_name: 花花花花缘
+    group_profile: ''
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 1
+    gid: 335
+    group_name: DDPC
+    group_profile: 高中生组的队伍，只是看题（幽谷响子天下第一！）
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 1
+    gid: 341
+    group_name: 维多pluzza店
+    group_profile: 不想复制粘贴了
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 1
+    gid: 343
+    group_name: 我加班故我摸?
+    group_profile: 说不定工位也是一种通灵的风水宝地
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 1
+    gid: 351
+    group_name: 我真得考虑一下mcjava了
+    group_profile: 基岩版特性露头就秒人玩否
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 1
+    gid: 360
+    group_name: 啥也不会
+    group_profile: '123'
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 0
+    gid: 16
+    group_name: 你说得对但是
+    group_profile: ''
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 0
+    gid: 18
+    group_name: 八瓣苹果
+    group_profile: ''
+    is_finish: 0
+    total_time: 264.0
+    user_count: 4
+  - finished_group_count: 0
+    finished_puzzle_count: 0
+    gid: 92
+    group_name: ぴぱ
+    group_profile: 请输入队伍简介
+    is_finish: 0
+    total_time: 264.0
+    user_count: 0
+  - finished_group_count: 0
+    finished_puzzle_count: 0
+    gid: 94
+    group_name: Cute
+    group_profile: ：）
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 0
+    gid: 98
+    group_name: 王泓懿
+    group_profile: 王泓懿高一（二）
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 0
+    gid: 104
+    group_name: 时代少年团
+    group_profile: 我们喜欢马嘉祺丁程鑫宋亚轩刘耀文张真源严浩翔贺峻霖
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 0
+    gid: 123
+    group_name: Flashback
+    group_profile: ''
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 0
+    gid: 127
+    group_name: 已出租
+    group_profile: 有意者请勿重复联系
+    is_finish: 0
+    total_time: 264.0
+    user_count: 2
+  - finished_group_count: 0
+    finished_puzzle_count: 0
+    gid: 128
+    group_name: 自定义名称2
+    group_profile: 黄金大饭店开张大吉！！！
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 0
+    gid: 151
+    group_name: evil pumpkin
+    group_profile: '-'
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 0
+    gid: 160
+    group_name: 什么
+    group_profile: 什么
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 0
+    gid: 181
+    group_name: 群星
+    group_profile: 略
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 0
+    gid: 182
+    group_name: Fvyirsvfu
+    group_profile: Jr ner cercnevat sbe gur jbeyq bs gbzbeebj.
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 0
+    gid: 188
+    group_name: 落单STAFF
+    group_profile: 落单的staff正在等待管理员身份。
+    is_finish: 0
+    total_time: 264.0
+    user_count: 0
+  - finished_group_count: 0
+    finished_puzzle_count: 0
+    gid: 189
+    group_name: bbb
+    group_profile: bvb
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 0
+    gid: 190
+    group_name: wobuhuimi
+    group_profile: buhuu
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 0
+    gid: 194
+    group_name: 鹿鹿鹿
+    group_profile: 只有一个人www
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 0
+    gid: 217
+    group_name: kkt
+    group_profile: ''
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 0
+    gid: 219
+    group_name: 小说
+    group_profile: 随便看看
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 0
+    gid: 223
+    group_name: Spathodea
+    group_profile: ''
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 0
+    gid: 235
+    group_name: Kagetsu
+    group_profile: ''
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 0
+    gid: 236
+    group_name: 南外番茄酱大象联盟
+    group_profile: 不参赛，仅摸鱼
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 0
+    gid: 255
+    group_name: 我看看怎么个事儿
+    group_profile: 我看看怎么个事儿
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 0
+    gid: 280
+    group_name: 小语种
+    group_profile: 小语种
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 0
+    gid: 301
+    group_name: 组队是个难事
+    group_profile: ''
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 0
+    gid: 302
+    group_name: 美鸭梨队
+    group_profile: 其实是炫狂小队
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 0
+    gid: 313
+    group_name: 阿森纳
+    group_profile: 不可战胜
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 0
+    gid: 322
+    group_name: 南京航空航天大学
+    group_profile: NUAAers
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 0
+    gid: 325
+    group_name: Aaa
+    group_profile: ''
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 0
+    gid: 345
+    group_name: Small Council
+    group_profile: Green Hands
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 0
+    gid: 347
+    group_name: ぴぱ2
+    group_profile: ぴぱぴぱ
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  - finished_group_count: 0
+    finished_puzzle_count: 0
+    gid: 349
+    group_name: Celeste64
+    group_profile: ''
+    is_finish: 0
+    total_time: 264.0
+    user_count: 1
+  table_columns:
+  - name: 排名
+    type: index
+    width: 48
+  - name: 队伍
+    type: group_name
+  - name: 人数
+    prop: user_count
+    type: int
+    width: 60
+  - name: 分区通过数
+    prop: finished_group_count
+    type: int
+    width: 100
+  - name: 解答题目数
+    prop: finished_puzzle_count
+    type: int
+    width: 100
+  - name: 总用时（小时）
+    prop: total_time
+    type: double
+    width: 130
+title: 排行榜 - n2ph
+type: scoreboard

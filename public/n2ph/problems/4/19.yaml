@@ -3,19 +3,20 @@ additional-answers:
   extra: ''
   message: 答案正确！那么，印加人们该如何OVERTURN CHECKMATE（逆转将军）呢？请发送以【逆转将军】开头的站内信，并告知我们是否是线下队
 answer: ASCENDING TO THE HEIGHTS OF MACHU PICCHU
-content: []
+content:
+- "<div class=\"tip-block custom-block\">\n  <span class=\"custom-block-title\">?</span>\n\
+  \  <span>本题含有线下元素</span>\n</div>\n<div class=\"tip-block custom-block\">\n  <span\
+  \ class=\"custom-block-title\">?</span>\n  <span>本题具有中间答案验证</span>\n</div>\n这时我才亲眼见到那块决定印加人命运的黑白棋盘格。\n\
+  \n【请将两个FINAL META的答案连在一起形成个有意义的词组提交】"
 content-type: 0
-desc: "<div class=\"tip-block custom-block\">\n  <span class=\"custom-block-title\"\
-  >?</span>\n  <span>本题含有线下元素</span>\n</div>\n<div class=\"tip-block custom-block\"\
-  >\n  <span class=\"custom-block-title\">?</span>\n  <span>本题具有中间答案验证</span>\n</div>\n\
-  这时我才亲眼见到那块决定印加人命运的黑白棋盘格。\n\n【请将两个FINAL META的答案连在一起形成个有意义的词组提交】"
+desc: ''
 extend-data: ''
 links:
 - path: n2ph/index
   title: 索引页
   type: index
 - path: n2ph/pages/d
-  title: 真Final Meta
-  type: page
+  pgid: 4
+  title: N2PH之终
 title: 马丘比丘之谜
 type: problem
