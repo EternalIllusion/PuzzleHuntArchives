@@ -1,4 +1,4 @@
-import { createRouter, createWebHistory } from "vue-router";
+import { createRouter, createWebHashHistory } from "vue-router";
 import Main from "../layouts/Main.vue";
 import Area from "../layouts/Area.vue";
 import ArticlePage from "../layouts/Article.vue";
@@ -26,11 +26,12 @@ const routes = [
   { path: "/problems/:hunt/:pgid/:pid", component: Puzzle },
   { path: "/problem/:hunt/:pgid/:pid", component: Puzzle },
   { path: "/404", component: NotFound },
+  { path: "/wip", component: wip },
   { path: "/:catchAll(.*)", component: NotFound },
 ];
 
 const router = createRouter({
-  history: createWebHistory(),
+  history: createWebHashHistory(),
   routes,
 });
 
