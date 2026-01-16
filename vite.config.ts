@@ -54,7 +54,7 @@ export default defineConfig({
       output: {
         manualChunks: {
           "eleui-plus": ["element-plus"],
-          "component": ["@vue/compiler-sfc",'watermark-js-plus'],
+          "component": ["@vue/compiler-sfc"],
         },
         chunkFileNames: "static/js/[name]-[hash].js",
         entryFileNames: "static/js/[name]-[hash].js",
