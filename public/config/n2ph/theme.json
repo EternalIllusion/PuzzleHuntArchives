@@ -1,0 +1,179 @@
+{
+  "colors":{
+    "1":{
+      "text":"#000",
+      "bg":"#fff",
+      "navBg":"#daad6c"
+    }
+  },
+  "maps":{
+    "banner":{
+      "bg":"/config/test/banner.png.webp",
+      "originalHeight":1460,
+      "originalWidth":2204,
+      "mapItem":[],
+      "snapMargin":5.85,
+      "logo":"/config/logos/n2ph_013d2e139f99f433f027893c96028cef.png.webp"
+    },
+    "1":{
+      "bg":"/config/test/static/puzzlemap/bg.png.webp",
+      "originalHeight":1392,
+      "originalWidth":2320,
+      "logo":"/config/logos/n2ph_013d2e139f99f433f027893c96028cef.png.webp",
+      "mapItem":[
+        {
+          "pid": 1,
+          "imgUrl": "/config/test/static/puzzlemap/1.png.webp",
+          "color": "#000",
+          "top": "64.66%",
+          "left": "32.63%",
+          "puzzle_type": 4
+        },
+        {
+          "pid": 2,
+          "imgUrl": "/config/test/static/puzzlemap/2.png.webp",
+          "color": "#bbb",
+          "top": "2.66%",
+          "left": "53.41%",
+          "puzzle_type": 4
+        },
+        {
+          "pid": 3,
+          "imgUrl": "/config/test/static/puzzlemap/3.png.webp",
+          "color": "#bbb",
+          "top": "12.28%",
+          "left": "41.25%",
+          "puzzle_type": 4
+        },
+        {
+          "pid": 4,
+          "imgUrl": "/config/test/static/puzzlemap/4.png.webp",
+          "color": "#bbb",
+          "top": "4.96%",
+          "left": "25.39%",
+          "puzzle_type": 4
+        },
+        {
+          "pid": 5,
+          "imgUrl": "/config/test/static/puzzlemap/5.png.webp",
+          "color": "#000",
+          "top": "37.07%",
+          "left": "24.27%",
+          "puzzle_type": 4
+        },
+        {
+          "pid": 6,
+          "imgUrl": "/config/test/static/puzzlemap/6.png.webp",
+          "color": "#000",
+          "top": "27.51%",
+          "left": "51.94%",
+          "puzzle_type": 4
+        },
+        {
+          "pid": 7,
+          "imgUrl": "/config/test/static/puzzlemap/7.png.webp",
+          "color": "#bbb",
+          "top": "9.34%",
+          "left": "61.29%",
+          "puzzle_type": 4
+        },
+        {
+          "pid": 8,
+          "imgUrl": "/config/test/static/puzzlemap/8.png.webp",
+          "color": "#000",
+          "top": "19.61%",
+          "left": "17.28%",
+          "puzzle_type": 4
+        },
+        {
+          "pid": 9,
+          "imgUrl": "/config/test/static/puzzlemap/9.png.webp",
+          "color": "#000",
+          "top": "37.36%",
+          "left": "55.99%",
+          "puzzle_type": 0
+        },
+        {
+          "pid": 10,
+          "imgUrl": "/config/test/static/puzzlemap/10.png.webp",
+          "color": "#000",
+          "top": "41.74%",
+          "left": "68.19%",
+          "puzzle_type": 0
+        },
+        {
+          "pid": 11,
+          "imgUrl": "/config/test/static/puzzlemap/11.png.webp",
+          "color": "#bbb",
+          "top": "4.96%",
+          "left": "6.12%",
+          "puzzle_type": 0
+        },
+        {
+          "pid": 12,
+          "imgUrl": "/config/test/static/puzzlemap/12.png.webp",
+          "color": "#bbb",
+          "top": "26.87%",
+          "left": "80.09%",
+          "puzzle_type": 0
+        },
+        {
+          "pid": 13,
+          "imgUrl": "/config/test/static/puzzlemap/15.png.webp",
+          "color": "#bbb",
+          "top": "63.94%",
+          "left": "80.09%",
+          "puzzle_type": 0
+        },
+        {
+          "pid": 14,
+          "imgUrl": "/config/test/static/puzzlemap/16.png.webp",
+          "color": "#000",
+          "top": "64.94%",
+          "left": "15.34%",
+          "puzzle_type": 3
+        },
+        {
+          "pid": 15,
+          "imgUrl": "/config/test/static/puzzlemap/13.png.webp",
+          "color": "#bbb",
+          "top": "62.57%",
+          "left": "2.93%",
+          "puzzle_type": 0
+        },
+        {
+          "pid": 16,
+          "imgUrl": "/config/test/static/puzzlemap/14.png.webp",
+          "color": "#bbb",
+          "top": "35.34%",
+          "left": "2.93%",
+          "puzzle_type": 0
+        },
+        {
+          "pid": 17,
+          "imgUrl": "/config/test/static/puzzlemap/17.png.webp",
+          "color": "#000",
+          "top": "70.47%",
+          "left": "61.59%",
+          "puzzle_type": 0
+        },
+        {
+          "pid": 18,
+          "imgUrl": "/config/test/static/puzzlemap/18.png.webp",
+          "color": "#000",
+          "top": "5.32%",
+          "left": "77.97%",
+          "puzzle_type": 3
+        },
+        {
+          "pid": 19,
+          "imgUrl": "/config/test/static/puzzlemap/19.png.webp",
+          "color": "#000",
+          "top": "46.62%",
+          "left": "39.05%",
+          "puzzle_type": 3
+        }
+      ]
+    }
+  }
+}

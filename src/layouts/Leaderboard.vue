@@ -391,8 +391,8 @@ onMounted(() => {
   width: 100%;
   padding: 0.75rem 1rem;
   background: rgba(100, 255, 218, 0.1);
-  color: #64ffda;
-  border: 1px solid rgba(100, 255, 218, 0.3);
+  color: #000000;
+  border: 1px solid rgb(7, 227, 176);
   border-radius: 5px;
   cursor: pointer;
   transition: all 0.3s;
@@ -426,7 +426,7 @@ onMounted(() => {
   padding: 0.75rem;
   background: rgba(255, 255, 255, 0.05);
   color: #000000;
-  border: 1px solid rgba(100, 255, 218, 0.2);
+  border: 1px solid rgb(9, 207, 161);
   border-radius: 5px;
   cursor: pointer;
   transition: all 0.3s;
@@ -435,7 +435,7 @@ onMounted(() => {
 
 .nav-btn:hover {
   background: rgba(100, 255, 218, 0.1);
-  border-color: rgba(100, 255, 218, 0.4);
+  border-color: rgb(15, 197, 155);
 }
 
 .main-content {
@@ -453,7 +453,7 @@ onMounted(() => {
 .loading-spinner {
   width: 40px;
   height: 40px;
-  border: 4px solid rgba(100, 255, 218, 0.3);
+  border: 4px solid rgb(11, 213, 166);
   border-top: 4px solid #64ffda;
   border-radius: 50%;
   animation: spin 1s linear infinite;
@@ -501,7 +501,7 @@ onMounted(() => {
   background: rgba(100, 255, 218, 0.1);
   border: 1px solid rgba(100, 255, 218, 0.2);
   border-radius: 8px 8px 0 0;
-  color: #64ffda;
+  color: #12d6a9;
   font-weight: 600;
   font-size: 0.95rem;
 }
@@ -560,7 +560,7 @@ onMounted(() => {
 
 .rank-col {
   font-size: 1.1rem;
-  color: #64ffda;
+  color: #12d6a9;
 }
 
 .team-col {
@@ -592,7 +592,7 @@ onMounted(() => {
 
 .member-count-btn {
   background: rgba(100, 255, 218, 0.2);
-  color: #64ffda;
+  color: #12d6a9;
   border: 1px solid rgba(100, 255, 218, 0.3);
   border-radius: 50%;
   width: 32px;
@@ -613,7 +613,7 @@ onMounted(() => {
 }
 
 .team-profile {
-  color: #cccccc;
+  color: #696969;
   line-height: 1.5;
   margin: 0;
   display: -webkit-box;

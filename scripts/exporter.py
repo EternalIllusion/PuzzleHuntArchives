@@ -2,7 +2,7 @@ import os,sys
 import json,pymysql
 import re,requests
 from datetime import datetime,timezone
-from exporter_consts import MYSQL_CONST,BASE_DIR,PROJECT_NAME,STATIC_URL_PREFIX,FINAL_PUZZLE_PID,CONFIG_START_TIME
+from exporter_consts import MYSQL_CONST,BASE_DIR,PROJECT_NAME,STATIC_URL_PREFIX,FINAL_PUZZLE_PID,CONFIG_START_TIME,MANUAL_BYPASS_DOWNLOAD_FLAG
 import hashlib
 
 #工具函数
@@ -341,7 +341,7 @@ def handle_static(content,isurl=False):
         local_url = f"/config/{PROJECT_NAME}/static/{image_name}"
         local_path = os.path.join(image_path, image_name)
         ensure_dir_exists(os.path.dirname(local_path))
-        if(os.path.exists(local_path)):
+        if(os.path.exists(local_path) or MANUAL_BYPASS_DOWNLOAD_FLAG):
             print("----Already downloaded.Skipping...")
             content = content.replace(image_url, local_url)
             continue
@@ -574,7 +574,7 @@ def export_articles():
     article_index = {
         'type': 'page',
         'title': '剧情',
-        'content': [f'此处显示的是{PROJECT_NAME}的所有剧情。您也可以使用左下导航工具打开剧情目录。'],
+        'content': f'此处显示的是{PROJECT_NAME}的所有剧情。您也可以使用左下导航工具打开剧情目录。',
         'links': links
     }
     with open(os.path.join(BASE_DIR, 'articles', 'index.json'), 'w', encoding='utf8') as f:
@@ -631,7 +631,6 @@ if __name__ == '__main__':
     print("Connectiing to Database...")
     db_connect(MYSQL_CONST)
     mainlist=None
-    '''
 
     #导出公告
     try:export_announcement()
@@ -649,11 +648,11 @@ if __name__ == '__main__':
     #导出后端题目脚本
     try:export_scripts()
     except Exception as e:traceback.print_exc(file=sys.stderr)
-'''
+
     #导出排行榜
     try:export_scoreboard()
     except Exception as e:traceback.print_exc(file=sys.stderr)
-    '''
+    
     #导出剧情
     try:export_articles()
     except Exception as e:traceback.print_exc(file=sys.stderr)
@@ -662,7 +661,7 @@ if __name__ == '__main__':
     print("Generating index.json")
     try:gen_meta(mainlist)
     except Exception as e:traceback.print_exc(file=sys.stderr)
-'''
+
     db_disconnect()
     print("Database disconnected.")
     print("=====\nExport complete.")

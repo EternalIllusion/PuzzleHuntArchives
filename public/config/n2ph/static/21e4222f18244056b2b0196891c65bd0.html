@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="zh">
+<header>
+    <meta charset="UTF-8">
+    </meta>
+    <title>预设提示：我需要一些辅助</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <style>
+        /* Custom player style */
+        #section3 midi-player {
+            display: block;
+            width: inherit;
+            margin: 4px;
+            margin-bottom: 0;
+        }
+
+        #section3 midi-player::part(control-panel) {
+            background: #fff;
+            border: 2px solid #000;
+            border-radius: 10px 10px 0 0;
+        }
+
+        #section3 midi-player::part(play-button) {
+            color: #000;
+            border: 2px solid currentColor;
+            background-color: #fff;
+            border-radius: 20px;
+            transition: all 0.2s;
+            content: 'hello';
+        }
+
+        #section3 midi-player::part(play-button):hover {
+            color: #0a0;
+            background-color: #5f5;
+            border-radius: 10px;
+        }
+
+        #section3 midi-player::part(time) {
+            font-family: monospace;
+        }
+
+        /* Custom visualizer style */
+        #section3 midi-visualizer .piano-roll-visualizer {
+            background: #ffe;
+            border: 2px solid black;
+            border-top: none;
+            border-radius: 0 0 10px 10px;
+            margin: 4px;
+            margin-top: 0;
+            overflow: auto;
+        }
+
+        #section3 midi-visualizer svg rect.note {
+            opacity: 0.6;
+            stroke-width: 2;
+        }
+
+        #section3 midi-visualizer svg rect.note[data-instrument="0"] {
+            fill: rgb(236, 95, 95);
+            stroke: #500;
+        }
+
+        #section3 midi-visualizer svg rect.note[data-instrument="2"] {
+            fill: rgb(102, 228, 228);
+            stroke: #055;
+        }
+
+        #section3 midi-visualizer svg rect.note[data-is-drum="true"] {
+            fill: rgb(106, 106, 228);
+            stroke: #888;
+        }
+
+        #section3 midi-visualizer svg rect.note.active {
+            opacity: 0.9;
+            stroke: #000;
+        }
+    </style>
+</header>
+
+<body>
+    <h3>预设提示：我还是不明白怎么做</h3>
+    <section id="section3">
+        <h2>Custom player and visualizer style</h2>
+        <midi-player src="/n2ph/static/91a8ff23d54f4b02a642dad77ca4c73c.mid" sound-font
+            visualizer="#section3 midi-visualizer">
+        </midi-player>
+        <midi-visualizer src="/n2ph/static/91a8ff23d54f4b02a642dad77ca4c73c.mid">
+        </midi-visualizer>
+    </section>
+    <h3>特别注意：发送本页面到公开场合会被视为作弊，可能会导致队伍封禁。</h3>
+    <h4>活动结束前请勿分享本页面到任何公开群聊以及网络平台</h4>
+
+    <script
+        src="/n2ph/static/80c7a836a1b948f3aadc27199cb1b92b.js"></script>
+</body>
+
+</html>

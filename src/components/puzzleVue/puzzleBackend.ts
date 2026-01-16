@@ -32,10 +32,12 @@ const AsyncFunction = Object.getPrototypeOf(async function () { }).constructor;
 async function callPuzzleBackendScript(key: string, data: any, status: any) {
     //读取url的?c=xxx参数
     const url = new URL(window.location.href);
-    const hunt = url.pathname.split('/').filter(Boolean)[1];
-    if (hunt === null) {
+    const huntr = url.href.split('/').filter(Boolean);
+    if (!huntr) {
         throw new Error("projectPath not found in url.");
     }
+    console.log('hunt:',huntr);
+    const hunt = huntr[huntr.length-3];
 
 
     //加载对应的脚本
