@@ -4,6 +4,7 @@ import vue from "@vitejs/plugin-vue";
 import AutoImport from "unplugin-auto-import/vite";
 import Components from "unplugin-vue-components/vite";
 import { ElementPlusResolver } from "unplugin-vue-components/resolvers";
+import { copyFileSync } from 'fs'
 
 export default defineConfig({
   plugins: [
@@ -25,7 +26,13 @@ export default defineConfig({
     Components({
       resolvers: [ElementPlusResolver()],
     }),
-    vue()
+    vue(),
+    {
+      name: 'copy-404',
+      closeBundle() {
+        copyFileSync('dist/index.html', 'dist/404.html')
+      }
+    }
   ],
   resolve:{
     alias: {
