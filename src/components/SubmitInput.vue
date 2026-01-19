@@ -2,7 +2,6 @@
 import { toast,messageBox } from "../utils/msg";
 import { messageType } from "element-plus";
 import { InfoFilled } from "@element-plus/icons-vue";
-
 import { AdditionalAnswer } from "../dataschem/interfaces";
 
 const answer = ref("");
@@ -31,8 +30,11 @@ const sendAnswer = async () => {
   let answer_status = 0;
   let message = '';
 
-  if(cleanAnswer(answerString)===cleanAnswer(props.answer)) {answer_status = 1;message="答案正确！"}
-  else{
+  if(props.answer.startsWith("%BACKEND_SCRIPT%")){
+    //TODO:判题后端
+  }else if(cleanAnswer(answerString)===cleanAnswer(props.answer)) {
+    answer_status = 1;message="答案正确！"
+  }else{
     props.milestones.forEach((m)=>{
       if(cleanAnswer(answerString)===cleanAnswer(m.answer)){
         answer_status = 3;

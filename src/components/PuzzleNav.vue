@@ -65,7 +65,6 @@
     </div>
     <div>
       <SubmitInput
-        v-if="$route.path.indexOf('puzzle') != -1"
         :answer="props.answer" :milestones="props.milestone??[]"
       />
     </div>

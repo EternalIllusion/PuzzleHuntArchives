@@ -262,6 +262,7 @@ def create_problem(problem,mainlist):
         content['problemImage'] = local_url
 
     content['answer'] = problem['answer']
+    if int(problem['check_answer_type'])>0:content['answer'] = f'%BACKEND_SCRIPT%{problem["check_answer_function"] if problem["check_answer_function"] else ""}'
     content['desc'] = problem['content']
     #print(problem['content'],"💡" in problem['content'])
 

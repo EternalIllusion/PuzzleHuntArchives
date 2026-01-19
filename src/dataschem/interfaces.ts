@@ -75,11 +75,23 @@ export interface NavBarItem {
   title: string;
 }
 
+export interface PuzzleColorCfg {
+  bg?: string;
+  bg2?: string;
+  text?: string;
+  navText?: string;
+  navBg?: string;
+}
+
 export interface ThemeColorCfg {
   text?: string;
   bg?: string;
   navText?: string;
   navBg?: string;
+  puzzListBg?: string;
+  puzzListItemBg?: string;
+  puzzListText?: string;
+  puzzCfg?: Record<string,PuzzleColorCfg>;
 }
 
 export interface MapCfg {
