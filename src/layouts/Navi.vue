@@ -150,7 +150,7 @@ onMounted(async () => {
 
 body.sp::before {
     content: "";
-    background: url(/bg.webp) no-repeat right top / cover;
+    background: url("/static/bg_4e65eaf7.webp") no-repeat right top / cover;
     top: 0;
     left: 0;
     bottom: 0;
@@ -319,10 +319,13 @@ body.sp::after {
     transition: all ease .5s;
 }
 
-@media (max-width: 800px) {
+@media (max-aspect-ratio: 3/2) {
     body.sp::before {
         margin-right: -40vh;
     }
+}
+
+@media (max-width: 800px) {
 
     .sp-index-navi-container .hunt {
         grid-template-columns: auto 1fr;

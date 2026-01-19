@@ -62,9 +62,9 @@ const descHtml = ref('')
 
 onBeforeMount(async () => {
     await theme.update(route.params.hunt as string)
-    bgImg.value = `url("${theme.maps.banner.bg ?? '/bg.webp'}")`;
+    bgImg.value = `url("${theme.maps.banner.bg ?? '/static/bg_4e65eaf7.webp'}")`;
     bgSnap.value = theme.maps.banner.snapMargin ?? 40;
-    logoImg.value = theme.maps.banner.logo ?? '/icon.svg';
+    logoImg.value = theme.maps.banner.logo ?? '/static/icon_74b33252.svg';
     console.log(theme.maps.banner)
 })
 

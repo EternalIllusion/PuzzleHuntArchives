@@ -1,7 +1,7 @@
 <template>
     <div class="nfapp" style="background-color:#56d562;margin:0;width:100%">
         <div style="width:100%;display:block;position:relative;top:0;left:0;height:auto"><img alt="404!"
-                src="/404.webp" style="width:100%;display:block;position:relative;top:0;left:0;height:auto"></div>
+                src="/static/404_0628a0e7.webp" style="width:100%;display:block;position:relative;top:0;left:0;height:auto"></div>
         <div style="width:100%;display:flex;flex-direction:row;justify-content:center">
             <div
                 style="max-width: 50rem;width:75%;display:flex;flex-direction:column;border:.6rem solid #000;border-radius:.25rem;padding:1rem 2rem;margin-bottom: 10rem;background-color:#dff6ff">
