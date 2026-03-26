@@ -35,14 +35,14 @@ const sendAnswer = async () => {
   }else if(cleanAnswer(answerString)===cleanAnswer(props.answer)) {
     answer_status = 1;message="答案正确！"
   }else{
+    answer_status = 2;
+    message = '答案错误！'
     props.milestones.forEach((m)=>{
       if(cleanAnswer(answerString)===cleanAnswer(m.answer)){
         answer_status = 3;
         message = m.message??"你目前得到的里程碑是正确的！"
       }
     })
-    answer_status = 2;
-    message = '答案错误！'
   }
 
   if (answer_status == 1) {

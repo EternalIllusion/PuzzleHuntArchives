@@ -1,6 +1,6 @@
 # CCXCArchiveEvolved
 
-基于 CCXC-Puzzle & CCBCArchive 开发的全新存档站。支持Cloudflare Pages、Vercel、Github Pages等自动化构建。
+基于 CCXC-Puzzle & CCBCArchive 开发的全新存档站，力求还原ccxc比赛体验。支持Cloudflare Pages、Vercel、Github Pages等自动化构建。
 
 启动：`npm run dev`
 
@@ -8,9 +8,9 @@
 
 TODO：    
 - [x] 题目脚本    
-- [ ] 主题自定义
-- [ ] 判题脚本    
-- [ ] 答案extra属性（我还没研究过）    
+- [x] 判题脚本（仅支持自动导出的配置；代码未经检验）    
+- [ ] 主题自定义（进行中）    
+- [ ] 答案extra属性    
 
 ## 自动化存档
 

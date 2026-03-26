@@ -19,6 +19,8 @@ const answerTips = reactive<tip[]>([]);
 
 const loadTips = () => {
   let i=1;
+  answerTips.length = 0;
+  Object.assign(answerTips,[]);
   props.hints.forEach((hint)=>{
     answerTips.push({
       ...hint,

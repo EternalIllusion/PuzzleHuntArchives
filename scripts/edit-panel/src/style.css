@@ -1,0 +1,216 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  /* color-scheme: light dark; */
+  /* rgba(255, 255, 255, 0.87); */
+  color: #231816;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  --el-bg-color-footer: #daad6c;
+  --el-text-color-footer: rgba(0, 0, 0, 0.8);
+
+  --nav-bg-color: #000;
+  --nav-text-color: #fff;
+  --pz-bg-color-1: #fff;
+  --pz-bg-color-2: #fff;
+
+  --el-color-primary: #007cc5;
+  /* --el-color-primary-light-3: #60c6e7;
+  --el-color-primary-light-5: #7fd1ec;
+  --el-color-primary-light-7: #9ddcf0;
+  --el-color-primary-light-8: #bce7f5;
+  --el-color-primary-light-9: #daf2f9; */
+  --el-color-primary-dark-2: #007cc5;
+
+  --el-fill-color-blank: rgba(255, 255, 255, 0.8);
+
+  --el-color-success: #00a650;
+  --el-color-warning: #f9931d;
+  --el-color-danger: #ef3129;
+  --el-color-error: #ef3129;
+  --el-color-info: #007dc5;
+}
+
+body {
+  margin: 0;
+  font-family: "Noto Sans SC", "PingFang SC", "Microsoft YaHei", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+/*#app {*/
+#puzzle-content {
+  /* padding-bottom: 80px;
+  overflow: hidden;
+  height: calc(100vh - 80px);
+  background: linear-gradient(
+    var(--el-color-primary),
+    var(--el-color-primary-light-8)
+  ); */
+}
+
+.hint-mannual-content,.mail-preview,.mail-content {
+  * {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+}
+
+.center {
+  text-align: center;
+}
+
+.header-line {
+  margin-top: 60px;
+  margin-bottom: 30px;
+}
+
+::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(165, 165, 165, 0.306);
+  border-radius: 5px;
+  transition: all 0.35s linear;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgb(165, 165, 165);
+}
+
+@font-face {
+    font-family: "NotFoundPrinter";
+    src: url('/static/404_d9b973aa.woff2') format('woff2'), url('/static/404_a52bf9b2.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+/** 样式覆盖 */
+.el-message-box {
+  --el-messagebox-title-color: var(--el-color-primary);
+  --el-messagebox-content-color: var(--el-color-primary);
+  --el-messagebox-width: 420px;
+  --el-messagebox-font-size: 24px;
+  --el-messagebox-content-font-size: 18px;
+  --el-messagebox-error-font-size: 12px;
+  --el-messagebox-font-line-height: 1.7;
+
+  border-radius: 12px;
+  box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+  background-color: rgba(255, 255, 255, 0.9);
+  padding: var(--el-messagebox-padding-primary) 40px;
+
+  white-space: pre-line;
+}
+
+.el-button {
+  border-radius: 8px;
+}
+
+.el-dialog {
+  --el-dialog-width: 90vw;
+}
+
+.el-tooltip__trigger:focus-visible {
+  outline: unset;
+}
+
+.el-main {
+  padding-top: 0;
+}
+
+.el-dropdown {
+  --el-text-color-regular: #fff;
+}
+
+.el-input-group__append {
+  background-color: var(--el-color-primary);
+  color: #fff;
+}
+
+.rainbow-gradient {
+    background: linear-gradient(90deg, 
+        red 0%, 
+        orange 7%, 
+        yellow 14%, 
+        green 21%, 
+        cyan 28%, 
+        blue 35%, 
+        magenta 42%, 
+        red 50%,
+        orange 57%, 
+        yellow 64%, 
+        green 77%, 
+        cyan 78%, 
+        blue 85%, 
+        magenta 92%, 
+        red 100%);
+    background-size: 200% 100%;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: transparent;
+    animation: gradientShift 5s linear infinite;
+    display: inline-block;
+    font-weight: bold;
+}
+
+@keyframes gradientShift {
+  0% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+
+.success-block {
+    border-left: 5px solid var(--el-color-success);
+    background: rgba(var(--el-color-success-rgb),.1)
+}
+
+.tip-block {
+    border-left: 5px solid var(--el-color-warning);
+    background: rgba(var(--el-color-warning-rgb),.1)
+}
+
+.info-block {
+    border-left: 5px solid var(--el-color-primary);
+    background: rgba(var(--el-color-primary-rgb),.1)
+}
+
+.error-block {
+    border-left: 5px solid var(--el-color-error);
+    background: rgba(var(--el-color-error-rgb),.1)
+}
+
+.custom-block {
+    font-family: Noto Sans SC, PingFang SC, Microsoft YaHei, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    width: max-content;
+    max-width: 100%;
+    padding: 12px 26px 12px 12px;
+    border-radius: 4px;
+    color: rgba(var(--pz-text-color), .87);
+    margin: 20px 0;
+}
+
+@media screen and (max-width: 600px) {
+    .custom-block {
+        width: calc(100% - 40px) !important;
+    }
+}
+
+.custom-block-title {
+    font-weight: 700;
+    margin-right: 10px;
+}

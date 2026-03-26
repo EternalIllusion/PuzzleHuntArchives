@@ -1,0 +1,101 @@
+<template>
+    <div class="nfapp" style="background-color:#56d562;margin:0;width:100%">
+        <div style="width:100%;display:block;position:relative;top:0;left:0;height:auto"><img alt="404!"
+                src="/static/404_0628a0e7.webp" style="width:100%;display:block;position:relative;top:0;left:0;height:auto"></div>
+        <div style="width:100%;display:flex;flex-direction:row;justify-content:center">
+            <div 
+                style="max-width: 50rem;width:75%;display:flex;flex-direction:column;border:.6rem solid #000;border-radius:.25rem;padding:1rem 2rem;margin-bottom: 10rem;background-color:#dff6ff">
+                <div
+                    style="border-left:5px solid #f9931d;background:rgba(230,162,60,.1);font-family:Noto Sans SC,PingFang SC,Microsoft YaHei,Helvetica Neue,Helvetica,Arial,sans-serif;font-size:14px;width:max-content;max-width:100%;padding:12px 26px 12px 12px;border-radius:4px;color:rgba(var(--pz-text-color),.87);margin:20px 0">
+                    <span>💡 本页内容缺失</span>
+                </div>
+                <div
+                    style="max-height:50vh;overflow:auto;border:2px solid #e4e7ed;border-radius:4px;background:#f5f5f5;padding:0 10px;scrollbar-width:thin">
+                    <div style="padding:10px 0">
+                        <div style="display:flex;justify-content:space-between;align-items:center">
+                            <div style="display:flex;align-items:center;gap:6px">
+                                <h2 style="display:flex;gap:4px;align-items:center"><span
+                                        style="min-width:32px;text-align:right">1.</span><span
+                                        style="font-weight:400">这页真的什么也没有吗？</span></h2>
+                                    <span
+                                    style="height:20px;padding:0 7px;align-items:center;background-color:#f0f9eb;border-color:#e1f3d8;border-radius:4px;border-style:solid;border-width:1px;box-sizing:border-box;color:#00a650;display:flex;font-size:12px;justify-content:center;line-height:1;vertical-align:middle;white-space:nowrap"
+                                    id="ccb-unlocked" v-if="!ccblocked">已解锁（ 50 信用点 ）</span>
+                            </div>
+                            <div id="ccb-locked" v-if="ccblocked"><button
+                                    style="padding:.5rem 20px;border:none;cursor:pointer;outline:0;margin-left:.5rem;border-radius:.5rem;font-size:14px;background-color:#007cc5;color:#fff;border:1px solid #007cc5"
+                                    type="button" aria-disabled="false" @click="popup=true"><span>消耗 50 信用点</span></button></div>
+                            </div>
+                        <div style="padding-left:20px" v-if="!ccblocked" id="ccb-answer">
+                            <p>是的请先看其他页面</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div style="position:fixed;top:0;left:0;width:100%;height:100%;background-color:rgba(0,0,0,.5);display:flex;justify-content:center;align-items:center;z-index:2034;color:#007cc5"
+            id="ccb-popup" v-if="popup">
+            <div style="background-color:#ffffffe6;border-radius:.75rem;padding:12px 0;box-shadow:0 2px 12px 0 rgba(0,0,0,.1);width:40rem;max-width:90%;position:relative"
+                aria-describedby="msg-box-content" aria-label="信用点消耗确认" aria-modal="true" role="dialog">
+                <div style="padding:0 2rem" tabindex="-1">
+                    <div style="display:flex;justify-content:space-between;align-items:center;padding:1rem">
+                        <div style="font-size:1.5rem"><span>信用点消耗确认</span></div><button
+                            style="background-color:transparent;border:none;cursor:pointer;outline:0;position:absolute;right:0;top:0;width:2rem;height:2rem;display:flex;justify-content:center;align-items:center"
+                            type="button" aria-label="Close this dialog"><i style="width:1rem;height:1rem"><svg
+                                    viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
+                                    <path
+                                        d="M764.288 214.592 512 466.88 259.712 214.592a31.936 31.936 0 0 0-45.12 45.12L466.752 512 214.528 764.224a31.936 31.936 0 1 0 45.12 45.184L512 557.184l252.288 252.288a31.936 31.936 0 0 0 45.12-45.12L557.12 512.064l252.288-252.352a31.936 31.936 0 1 0-45.12-45.184z"
+                                        fill="#007CC5"></path>
+                                </svg></i></button>
+                    </div>
+                    <div style="padding:0 2rem" id="msg-box-content">
+                        <div style="display:flex;align-items:center;gap:1rem"><i
+                                style="width:2.25rem;height:2.25rem"><svg viewBox="0 0 1024 1024"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path
+                                        d="M512 64a448 448 0 1 1 0 896 448 448 0 0 1 0-896m0 192a58.432 58.432 0 0 0-58.24 63.744l23.36 256.384a35.072 35.072 0 0 0 69.76 0l23.296-256.384A58.432 58.432 0 0 0 512 256m0 512a51.2 51.2 0 1 0 0-102.4 51.2 51.2 0 0 0 0 102.4"
+                                        fill="#f9931d"></path>
+                                </svg></i>
+                            <div>
+                                <p style="font-size:18px;line-height:1.75;margin:0">正在获取HINT
+                                    #1，本次消耗50信用点，消耗后剩余2147483597信用点，确定要继续吗？
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div style="display:flex;justify-content:flex-end;padding:0"><button
+                            style="padding:.5rem 20px;border:none;cursor:pointer;outline:0;margin-left:.5rem;border-radius:.5rem;font-size:14px;background-color:#fcfcfc;color:#606266;border:1px solid #dcdfe6"
+                            type="button" aria-disabled="false" id="ccb-no" @click="popup=false;"><span>取消</span></button> <button
+                            style="padding:.5rem 20px;border:none;cursor:pointer;outline:0;margin-left:.5rem;border-radius:.5rem;font-size:14px;background-color:#007cc5;color:#fff;border:1px solid #007cc5"
+                            type="button" aria-disabled="false" id="ccb-yes" @click="ccblocked=false;popup=false;"><span>确定</span></button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div
+            style="display:flex;flex-direction:row;position:fixed;bottom:0;left:0;width:100%;height:5rem;background-color:#df7126;align-items:center;padding-left:3rem;color:#fff" class="pixelfont">
+            <router-link to="/" class="pixelfont">返回主页</router-link>
+        </div>
+    </div>
+</template>
+
+<style scoped>
+.nfapp {
+    margin: 0;
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+.pixelfont {
+    font-family: "NotFoundPrinter";
+    color: #fff;
+    text-decoration: none;
+}
+
+</style>
+
+<script setup>
+import { ref } from 'vue';
+const ccblocked = ref(true);
+const popup = ref(false);
+</script>
