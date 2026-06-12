@@ -290,7 +290,7 @@ def create_problem(problem,mainlist):
             puzzle_tip = tip_row
             parse_tip_content = handle_static(puzzle_tip['content'])
             puzzle_tips_list.append({
-                'title': f"{puzzle_tip['title']} ({puzzle_tip["point_cost"]}提示点)",
+                'title': f"{puzzle_tip['title']} ({puzzle_tip['point_cost']}提示点)",
                 'content': parse_tip_content,
             })
         
